@@ -8,7 +8,7 @@ import { getStudentProgrammes, valueStreamLabel, type Programme } from "@/lib/pr
 export const metadata: Metadata = {
   title: "Programmes for Students",
   description:
-    "Three CPS Higher Education qualifications for South African students: Higher Certificate in Banking, Higher Certificate in Banking - Business Banking, and Advanced Certificate in Leadership.",
+    "Three CHE-accredited pathways into banking and financial services - the Higher Certificate in Banking, the Business Banking specialisation, and the Advanced Certificate in Leadership. Built by the people the sector has counted on for 25 years.",
 };
 
 const students = getStudentProgrammes();
@@ -60,12 +60,11 @@ export default function StudentsProgrammes() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 880 }}>
             <span className="eyebrow"><span className="dot" /> Student Programmes</span>
-            <h1>Three pathways. Pick the one that fits your next step.</h1>
+            <h1>Three pathways into banking and financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
-              Three 12-month higher-education qualifications designed for working South African
-              professionals. Two banking pathways - a general foundation and a business-banking
-              specialisation - plus a leadership credential. All three are CHE-accredited and end in
-              a credential employers know.
+              Three 12-month, CHE-accredited qualifications - all built by the people the sector has
+              counted on for 25 years. A banking foundation, a business banking specialisation, and a
+              leadership credential. Pick the one that fits where you want to land.
             </p>
           </div>
         </div>
@@ -77,11 +76,11 @@ export default function StudentsProgrammes() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" /> Primary Student Programmes</span>
-              <h2>Three flagship pathways for ambitious South African professionals.</h2>
+              <h2>Three pathways. All CHE-accredited. All built for the sector.</h2>
               <p>
-                All three programmes are 12 months, CHE-accredited and designed for working
-                students. Choose the banking foundation, the business-banking specialisation, or
-                the leadership credential.
+                12 months each, designed for working professionals, recognised by the banks and
+                insurers that employ them. Choose the banking foundation, the business banking
+                specialisation, or the leadership credential.
               </p>
             </div>
           </Reveal>
@@ -104,8 +103,9 @@ export default function StudentsProgrammes() {
               <span className="eyebrow"><span className="dot" /> Your student journey</span>
               <h2>From enquiry to enrolment, know what happens next.</h2>
               <p>
-                A clear process reduces uncertainty. CPS helps students understand the programme,
-                requirements and next step before they commit.
+                You shouldn&apos;t need to figure out the process. 25 years of running cohorts taught us
+                that the clearest path is also the most respectful one - here it is, six steps, no
+                surprises.
               </p>
             </div>
           </Reveal>

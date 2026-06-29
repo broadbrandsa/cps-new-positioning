@@ -12,7 +12,7 @@ import {
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Founded in 1999, Cornerstone Performance Solutions builds learning that emancipates. A small band of doers driven by belief, building a bridge between potential and opportunity.",
+    "Since 1999, Cornerstone Performance Solutions has been the learning partner banking and financial services count on. 25 years inside the sector, building the people who run it.",
 };
 
 export default function AboutPage() {
@@ -29,10 +29,10 @@ export default function AboutPage() {
               <span className="eyebrow"><span className="dot" /> Since 1999</span>
             </Reveal>
             <Reveal as="div" delay={120} className="about-hero-text">
-              <h1 className="about-display">Our story.</h1>
+              <h1 className="about-display">25 years inside the sector.</h1>
               <p className="about-lede">
-                Founded by a small band of doers, driven by belief - building a bridge between
-                potential and opportunity.
+                Since 1999, we&apos;ve built the people banking and financial services count on -
+                first one cohort, then thousands, then a generation.
               </p>
             </Reveal>
           </div>
@@ -45,19 +45,20 @@ export default function AboutPage() {
           <div className="narrative-grid">
             <Reveal as="div" className="narrative-side">
               <span className="eyebrow"><span className="dot" /> Origin</span>
-              <h2>Born From A Belief</h2>
+              <h2>Built for the sector. From day one.</h2>
               <span className="narrative-marker">01</span>
             </Reveal>
             <Reveal as="div" className="narrative-body" delay={140}>
               <p className="lead">
-                In 1999, Cornerstone Performance Solutions was founded by a small band of doers who
-                believed in a simple but powerful idea: that <em>inequality and poverty reflect a poverty
-                of opportunity, not of talent</em>.
+                In 1999, Cornerstone Performance Solutions was founded with a specific job to do: design
+                learning that builds real people for real roles in <em>South Africa&apos;s banking and
+                financial services sector</em>.
               </p>
               <p>
-                From the very beginning, Cornerstone set out to create learning experiences that
-                emancipate people from the disadvantage of limited opportunity - opening doors that had
-                long been closed and proving that, given the right conditions, anyone can thrive.
+                That focus has never moved. 25 years on, we&apos;re still doing the same job - building
+                qualifications, cohorts and platforms that the sector knows by name, and that the people
+                who finish them carry into careers in the banks, insurers and broker networks that
+                trained their predecessors.
               </p>
             </Reveal>
           </div>
@@ -91,20 +92,19 @@ export default function AboutPage() {
               <p className="ceo-role">Chief Executive Officer, Cornerstone Performance Solutions</p>
 
               <p>
-                As CEO of Cornerstone Performance Solutions, Dr Indira Bhagaloo leads a team of top-tier
-                learning and development professionals - defining and executing the academic and vocational
-                strategy, driving business development and relations, expanding product and reach, and
-                building scalable delivery capability.
+                Indira leads CPS - setting the academic and vocational strategy, building the
+                partnerships, expanding the programme reach and the delivery capability that sits behind
+                it. She runs the team that runs the cohorts.
               </p>
               <p>
-                With 26 years of experience in the Financial Services Sector and a Ph.D. and MBA graduate,
-                Indira previously held executive positions as Head of Private Banking and Business Banking
-                Channel at a major bank in South Africa.
+                Before CPS, Indira spent 26 years inside financial services - including executive
+                positions as Head of Private Banking and Head of Business Banking Channel at one of
+                South Africa&apos;s major banks. She holds a Ph.D. and an MBA.
               </p>
               <p>
-                Her passion lies in providing impactful learning experiences built on behavioural change,
-                not just the sharing of information. With CPS&apos;s learning solutions, she helps
-                organisations close gaps in critical future capability areas.
+                That sector experience is the reason CPS programmes work the way they do. Indira knows
+                what banks need staff to be able to do because she ran those teams. Every CPS
+                qualification is built with that lens.
               </p>
 
               <div className="ceo-creds">
@@ -123,10 +123,11 @@ export default function AboutPage() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-blue)" }} /> The team</span>
-              <h2>The people behind CPS.</h2>
+              <h2>The people the sector knows by name.</h2>
               <p>
-                A small band of doers - educators, learning designers, programme managers and
-                delivery specialists - building learning experiences that move people forward.
+                Educators, learning designers, programme managers and delivery specialists - many with
+                careers inside banking, insurance and financial services before they joined CPS. The
+                people you call when a programme matters and the cohort is real.
               </p>
             </div>
           </Reveal>
@@ -185,20 +186,20 @@ export default function AboutPage() {
             <blockquote className="philosophy-quote">
               <span className="quote-mark" aria-hidden>&ldquo;</span>
               <p>
-                Inequality and poverty reflect a <em>poverty of opportunity</em>,
-                not of talent.
+                The sector doesn&apos;t hire qualifications. It hires <em>people who can do the work</em>.
               </p>
               <span className="quote-mark closing" aria-hidden>&rdquo;</span>
             </blockquote>
             <div className="philosophy-body">
               <p>
-                This belief is the cornerstone of everything we do. We see potential where others see
-                limitation. We design learning experiences that don&apos;t just transfer knowledge - they
-                transform lives.
+                25 years of building cohorts for banks, insurers and broker networks taught us one
+                thing - the credential matters, but capability is what gets people hired, promoted and
+                kept. So that&apos;s what we build for.
               </p>
               <p>
-                Over more than two decades, Cornerstone has become a home to many people and ideas, all
-                united by the pursuit of learning that emancipates.
+                Every CPS programme is reverse-engineered from a real role in financial services. Every
+                module, every assessment, every workplace exercise exists to close the distance between
+                what a student knows on day one and what the sector needs them to do on day 365.
               </p>
             </div>
           </Reveal>
@@ -211,10 +212,10 @@ export default function AboutPage() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" /> Values</span>
-              <h2>What we stand for.</h2>
+              <h2>How we work.</h2>
               <p>
-                Three convictions shape everything we build, every programme we design, and every
-                student we serve.
+                Three principles shape every programme we design, every cohort we run and every
+                partnership we sign.
               </p>
             </div>
           </Reveal>
@@ -225,10 +226,10 @@ export default function AboutPage() {
                 <div className="value-face value-face-front">
                   <span className="value-mark" aria-hidden><Sparkle /></span>
                   <span className="value-num">VALUE 01</span>
-                  <h3>Learning That Emancipates</h3>
+                  <h3>Sector first, always</h3>
                   <p>
-                    We pursue education that frees people from the disadvantage of limited opportunity,
-                    unlocking potential that has always been there.
+                    Every CPS programme is built around the work people actually do in banking and
+                    financial services. We design backwards from the role, not forwards from a textbook.
                   </p>
                   <span className="value-flip-hint" aria-hidden>Hover to reveal</span>
                 </div>
@@ -243,10 +244,11 @@ export default function AboutPage() {
                 <div className="value-face value-face-front">
                   <span className="value-mark" aria-hidden><Lightbulb /></span>
                   <span className="value-num">VALUE 02</span>
-                  <h3>Science as Love&apos;s Greatest Ally</h3>
+                  <h3>Built to be finished</h3>
                   <p>
-                    We believe rigorous, evidence-based learning design is the most compassionate thing we
-                    can do - because science ensures our care translates into real outcomes.
+                    A qualification only counts when you complete it. Structured journeys, faster
+                    feedback and visible progress aren&apos;t nice-to-haves - they&apos;re what
+                    separates a credential from a certificate of attendance.
                   </p>
                   <span className="value-flip-hint" aria-hidden>Hover to reveal</span>
                 </div>
@@ -261,10 +263,11 @@ export default function AboutPage() {
                 <div className="value-face value-face-front">
                   <span className="value-mark" aria-hidden><Briefcase /></span>
                   <span className="value-num">VALUE 03</span>
-                  <h3>Belief In Potential</h3>
+                  <h3>Ready, not just qualified</h3>
                   <p>
-                    Everything we build, every programme we design, and every student we serve is guided by
-                    empathy, respect, and a deep belief in human potential.
+                    We measure ourselves against where students land after the programme - the role
+                    they step into, the promotion they earn, the work they can now do. Capability is
+                    the outcome. Everything else is a means.
                   </p>
                   <span className="value-flip-hint" aria-hidden>Hover to reveal</span>
                 </div>
@@ -285,7 +288,7 @@ export default function AboutPage() {
             <h2 className="vision-title">
               Three futures
               <br />
-              <em>we&apos;re building toward.</em>
+              <em>we&apos;re working toward.</em>
             </h2>
           </Reveal>
 

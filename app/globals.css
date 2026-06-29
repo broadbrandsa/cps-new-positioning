@@ -6215,7 +6215,7 @@ video.flagship-hero-video {
 .prog-category-grid > .spotlight { display: flex; height: 100%; }
 .prog-category-grid > .spotlight > .prog-category-card { flex: 1; }
 
-/* ---------- STUDENT PROGRAMMES — 3-card flagship grid ----------
+/* ---------- STUDENT PROGRAMMES - 3-card flagship grid ----------
    Three CHE-accredited HE programmes (HCIB / HCIBB / ACL) rendered as
    equal-height hero-style cards. Replaces the older 2x2 pair + pathway
    layout now that the catalogue has three primaries. */

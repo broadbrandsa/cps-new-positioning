@@ -15,7 +15,7 @@ import {
 export const metadata: Metadata = {
   title: "Workforce Programmes",
   description:
-    "CPS workforce programmes for organisations: Higher Education qualifications, occupational qualifications, credit-bearing skills programmes and strategic skills programmes.",
+    "CPS workforce programmes for banking and financial services: occupational learnerships, CHE-accredited higher education qualifications, credit-bearing skills programmes and strategic skills programmes - built by the partner the sector has counted on for 25 years.",
 };
 
 const heProgrammes: Programme[] = Object.values(PROGRAMMES).filter((p) => p.qualType === "HE");
@@ -121,15 +121,15 @@ export default function OrganisationsProgrammes() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 880 }}>
             <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Workforce Programmes</span>
-            <h1>Workforce programmes for regulated, performance-driven teams.</h1>
+            <h1>The workforce programmes banking and financial services rely on.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
-              Higher Education qualifications, occupational qualifications, credit-bearing skills
-              programmes and strategic skills programmes - built for teams, cohorts and regulated
-              environments where completion, workplace application and measurable progress matter.
+              Occupational qualifications delivered as workplace-integrated learnerships, CHE-accredited
+              higher-education credentials, and focused skills programmes - all built around the
+              capability the sector actually pays for. 25 years of doing nothing else.
             </p>
             <p style={{ marginTop: 16, fontSize: 16, maxWidth: 720 }}>
-              Choose by category below, or speak to us about combining programmes into a workforce
-              development pathway.
+              Pick a category below, or talk to us about combining programmes into a workforce pathway
+              tailored to your team.
             </p>
           </div>
         </div>
@@ -144,11 +144,11 @@ export default function OrganisationsProgrammes() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-blue)" }} /> Higher Education qualifications</span>
-              <h2>CHE-accredited credentials for cohort delivery.</h2>
+              <h2>CHE-accredited credentials. Cohort-deliverable.</h2>
               <p>
-                CHE-accredited higher-education qualifications. Available for cohort delivery in support
-                of strategic capability and leadership development - typically via employer sponsorship
-                of entry-level or high-potential talent.
+                CHE-accredited higher-education qualifications for cohort delivery via employer
+                sponsorship - typically used to build entry-level banking talent and emerging-leader
+                pipelines. The credentials the sector recognises by name.
               </p>
             </div>
           </Reveal>
@@ -168,11 +168,11 @@ export default function OrganisationsProgrammes() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Occupational qualifications (Learnerships)</span>
-              <h2>Workplace-integrated qualifications built around real capability.</h2>
+              <h2>Workplace-integrated qualifications. Built for the sector&apos;s actual roles.</h2>
               <p>
-                QCTO-aligned occupational qualifications delivered as workplace-integrated learnerships.
-                Built around the kind of capability organisations actually need to build: business
-                banking, insurance, investment, claims and risk.
+                QCTO-aligned occupational qualifications delivered as workplace-integrated learnerships -
+                business banking, insurance, investment, claims and risk. The capability banks, insurers
+                and broker networks ask us to build, year after year.
               </p>
             </div>
           </Reveal>
@@ -194,11 +194,11 @@ export default function OrganisationsProgrammes() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-blue)" }} /> Credit-bearing skills programmes</span>
-              <h2>Registered short programmes that carry NQF credits.</h2>
+              <h2>Short programmes that carry NQF credits.</h2>
               <p>
-                Occupational Skills Programmes (OSP) - registered short programmes carrying NQF
-                credits at Level 6 or 7. Used by organisations to build specific digital innovation
-                capability that contributes to wider qualification pathways.
+                Occupational Skills Programmes (OSP) - registered short programmes carrying NQF credits
+                at Level 6 or 7. Used by financial services organisations to build specific digital and
+                innovation capability that ladders into wider qualification pathways.
               </p>
             </div>
           </Reveal>
@@ -218,11 +218,11 @@ export default function OrganisationsProgrammes() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Skills programmes</span>
-              <h2>Focused 3-6 month programmes for capability shifts.</h2>
+              <h2>Focused 3-6 month programmes for sector-specific capability shifts.</h2>
               <p>
-                Strategic Skills Programmes (SSP) - non-credit, focused programmes designed and
-                deployed for specific capability shifts in sales, leadership, client experience,
-                relationship management and digital change.
+                Strategic Skills Programmes (SSP) - non-credit, focused programmes for the capability
+                shifts banking and financial services groups need fast: sales performance, leadership,
+                client experience, relationship management and digital change.
               </p>
             </div>
           </Reveal>
@@ -242,11 +242,12 @@ export default function OrganisationsProgrammes() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" /> Need a programme for a team or cohort?</span>
-              <h2>Speak to us about building a workforce development pathway.</h2>
+              <h2>Tell us the capability gap. We&apos;ll design the pathway.</h2>
               <p>
-                If you&apos;re unsure which combination of qualifications and skills programmes fits
-                your team&apos;s capability gap, speak to us. We can scope a programme around your
-                specific requirements.
+                We&apos;ve been combining qualifications, learnerships and skills programmes into bespoke
+                workforce pathways for banks and insurers for 25 years. If you&apos;re unsure which
+                combination fits your team, talk to us - chances are we&apos;ve already built something
+                close to it.
               </p>
             </div>
             <Link href="/contact#partnerships" className="btn btn-yellow btn-lg" style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>

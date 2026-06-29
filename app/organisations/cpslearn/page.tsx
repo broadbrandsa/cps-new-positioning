@@ -21,7 +21,7 @@ import { CountUp } from "@/components/count-up";
 export const metadata: Metadata = {
   title: "CPSLearn Platform",
   description:
-    "The CPSLearn Platform - the proprietary platform behind CPS programme delivery. Structured learning journeys, assessment workflows, moderation, progress tracking and reporting visibility.",
+    "The CPSLearn Platform - the proprietary platform behind 25 years of CPS programme delivery in banking and financial services. Structured learning journeys, assessment workflows, moderation, progress tracking and reporting visibility for cohort delivery.",
 };
 
 export default function OrganisationsCPSLearn() {
@@ -34,16 +34,17 @@ export default function OrganisationsCPSLearn() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 880 }}>
             <span className="eyebrow"><span className="dot" /> CPSLearn Platform</span>
-            <h1>The platform that helps turn learning into visibility.</h1>
+            <h1>The platform behind 25 years of cohort delivery in the sector.</h1>
             <p style={{ marginTop: 24, fontSize: 18, maxWidth: 720 }}>
-              CPSLearn is the proprietary platform behind CPS programme delivery. It supports structured
-              learning journeys, assessment workflows, moderation, progress tracking and reporting
-              visibility.
+              CPSLearn is the proprietary platform behind every CPS programme - built and refined for
+              the structure, scrutiny and traceability that banking and financial services education
+              demands. Structured learning journeys, assessment workflows, moderation, progress tracking
+              and reporting visibility, in one place.
             </p>
             <p style={{ marginTop: 16, color: "var(--muted)", fontSize: 16, maxWidth: 720 }}>
-              For organisations, the value of CPSLearn is not just that students have somewhere to study.
-              It gives programme stakeholders clearer visibility into progress, support needs and
-              development across cohorts.
+              For your L&amp;D and HR teams, the value isn&apos;t just that staff have somewhere to
+              study. It&apos;s that you can see, cohort by cohort, who&apos;s on track, who needs
+              support, and what capability is actually being built.
             </p>
           </div>
 
@@ -62,14 +63,15 @@ export default function OrganisationsCPSLearn() {
           <div className="cpslearn-heritage">
             <Reveal as="div" className="heritage-text">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Heritage</span>
-              <h2 style={{ marginTop: 16 }}>Not just another learning platform.</h2>
+              <h2 style={{ marginTop: 16 }}>Built by the sector, for the sector.</h2>
               <p style={{ marginTop: 24, fontSize: 17, color: "var(--muted)", lineHeight: 1.6 }}>
-                CPSLearn is not a repackaged third-party system. It&apos;s been built and refined over more
-                than two decades, based on how students actually move through programmes in banking,
-                insurance, investment and leadership.
+                CPSLearn isn&apos;t a third-party LMS with our logo on it. It&apos;s our own platform,
+                refined over 25 years against the specific demands of banking, insurance, investment and
+                leadership education in South Africa.
               </p>
               <p style={{ marginTop: 16, fontSize: 17, color: "var(--ink)", lineHeight: 1.6, fontWeight: 500 }}>
-                That matters - because it means the system is shaped by real behaviour, not assumptions.
+                The result: a delivery environment shaped by how the sector actually develops people,
+                not by what a generic LMS happens to support.
               </p>
             </Reveal>
 
@@ -187,11 +189,11 @@ export default function OrganisationsCPSLearn() {
           <div className="diff-grid">
             <Reveal as="div">
               <span className="eyebrow"><span className="dot" /> Why this matters for organisations</span>
-              <h2 style={{ marginTop: 16 }}>Move from attendance to capability tracking.</h2>
+              <h2 style={{ marginTop: 16 }}>From training delivered to capability earned.</h2>
               <p style={{ marginTop: 24, fontSize: 17, color: "var(--muted)", lineHeight: 1.55 }}>
-                Many organisations can report that training happened. Fewer can clearly show whether
-                students progressed, completed and developed the intended capability. CPSLearn helps close
-                that gap by making the learning journey more visible and manageable.
+                Most organisations can report that training happened. Fewer can show whether the cohort
+                progressed, completed or actually built the capability the programme was meant to build.
+                CPSLearn closes that gap - so what you report is what your people can actually do.
               </p>
             </Reveal>
             <Reveal as="div" delay={120}>

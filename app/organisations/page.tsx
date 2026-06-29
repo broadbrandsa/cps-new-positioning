@@ -18,7 +18,7 @@ import { Spotlight } from "@/components/spotlight";
 export const metadata: Metadata = {
   title: "For Organisations",
   description:
-    "CPS partners with banks, insurers, broker networks and financial services organisations to design and deliver accredited workforce education programmes.",
+    "For 25 years, CPS has been the learning partner banking and financial services count on. Accredited workforce education programmes for banks, insurers, broker networks and regulated FS organisations.",
 };
 
 export default function OrganisationsHome() {
@@ -36,14 +36,14 @@ export default function OrganisationsHome() {
               <span className="dot" /> For Organisations &nbsp;//&nbsp; Workforce Education
             </span>
             <h1 className="hero-headline">
-              <span className="hero-line">Transform your people</span>
-              <span className="hero-line"><span className="accent-word">into your strategic</span></span>
-              <span className="hero-line">edge.</span>
+              <span className="hero-line">Build the people</span>
+              <span className="hero-line"><span className="accent-word">banking and financial</span></span>
+              <span className="hero-line">services count on.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              CPS partners with banks, insurers, broker networks and financial services organisations to
-              design and deliver accredited workforce education programmes that improve capability,
-              support compliance and produce measurable progress.
+              For 25 years, we&apos;ve been the learning partner the sector turns to. CPS designs and delivers
+              accredited workforce education for banks, insurers, broker networks and financial services
+              groups - programmes that build capability, support compliance and produce measurable progress.
             </p>
 
             <div className="hero-cta-row hero-fade-in">
@@ -75,7 +75,7 @@ export default function OrganisationsHome() {
       </section>
 
       {/* CLIENT LOGOS */}
-      <ClientLogos label="Experience across South African and international financial services environments." />
+      <ClientLogos label="Banks, insurers and financial services groups we&rsquo;ve built people for." />
 
       {/* SUPPORTING PARAGRAPH BAND - centered, breathing room above + below */}
       <section style={{ padding: "120px 0 120px" }}>
@@ -89,7 +89,7 @@ export default function OrganisationsHome() {
               textAlign: "center",
               letterSpacing: "-0.005em",
             }}>
-              Most organisations do not need another training vendor.
+              Most organisations don&apos;t need another training vendor.
             </p>
             <p style={{
               fontSize: "clamp(20px, 1.6vw, 26px)",
@@ -100,8 +100,9 @@ export default function OrganisationsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              They need a partner who understands regulated financial services environments, can structure
-              learning around business needs, and can support students through to completion and application.
+              They need a partner who&apos;s spent 25 years inside the sector. One that knows how banks
+              actually develop people, what regulators expect to see, and what it takes to move staff from
+              training delivered to capability earned.
             </p>
           </Reveal>
         </div>
@@ -115,12 +116,12 @@ export default function OrganisationsHome() {
         <div className="container">
           <Reveal as="div" className="section-head">
             <div className="left">
-              <span className="eyebrow"><span className="dot" /> What CPS does differently</span>
-              <h2>A managed workforce education partner, not a once-off provider.</h2>
+              <span className="eyebrow"><span className="dot" /> What 25 years gets you</span>
+              <h2>A learning partner who knows the sector. Not a once-off training provider.</h2>
               <p>
-                CPS brings together accredited programmes, structured learning journeys, facilitator
-                support, student tracking and workplace relevance. The result is a more accountable
-                approach to workforce education.
+                Accredited programmes, structured learning journeys, facilitator support, student tracking
+                and workplace relevance - all built by a team that&apos;s spent its career inside banking
+                and financial services. The result is a more accountable approach to workforce education.
               </p>
             </div>
           </Reveal>
@@ -219,7 +220,7 @@ export default function OrganisationsHome() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Who CPS works with</span>
-              <h2>Designed for organisations that need capability to change.</h2>
+              <h2>Built for the sector. Trusted by the people who run it.</h2>
             </div>
           </Reveal>
 
@@ -285,10 +286,11 @@ export default function OrganisationsHome() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" /> Primary workforce programmes</span>
-              <h2>Programmes built for workforce capability.</h2>
+              <h2>The programmes the sector actually pays for.</h2>
               <p>
-                CPS works with organisations to build capability through occupational qualifications,
-                workplace-integrated programmes and focused skills development pathways.
+                We build banking and financial services capability through three categories: occupational
+                qualifications delivered as workplace-integrated learnerships, CHE-accredited higher
+                education qualifications, and focused skills programmes that close specific capability gaps.
               </p>
             </div>
             <Link href="/organisations/programmes" className="liquid-glass btn-lg" style={{ borderRadius: 14, padding: "14px 22px", display: "inline-flex", alignItems: "center", gap: 8 }}>
@@ -377,9 +379,9 @@ export default function OrganisationsHome() {
               <span className="eyebrow"><span className="dot" /> Partnership model</span>
               <h2>A four-phase partnership, not a transaction.</h2>
               <p>
-                CPS works with organisations through a structured partnership model. The goal is to ensure
-                the programme is aligned before launch, managed during delivery and connected back to
-                outcomes after implementation.
+                We&apos;ve been refining how we work with the sector for 25 years. Programmes are aligned
+                before launch, managed during delivery and connected back to outcomes after implementation -
+                because that&apos;s what produces capability that lasts.
               </p>
             </div>
           </Reveal>
@@ -419,19 +421,20 @@ export default function OrganisationsHome() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Commercial impact</span>
-              <h2>Why this matters commercially</h2>
+              <h2>Why this matters commercially.</h2>
               <p>
-                When learning does not translate into capability, organisations lose more than training
-                budget. They lose time, student momentum, manager confidence and the opportunity to build
-                stronger teams.
+                When learning doesn&apos;t translate into capability, the cost isn&apos;t just training budget.
+                It&apos;s lost time, lost momentum, lost manager confidence, and a workforce that can&apos;t
+                move the way the business needs it to.
               </p>
               <p style={{ marginTop: 12 }}>
-                For regulated financial services organisations, capability gaps can also affect client
-                experience, compliance confidence, sales performance and progression planning.
+                For banks, insurers and regulated FS groups, capability gaps show up faster - in client
+                experience, in compliance, in sales performance and in progression planning.
               </p>
               <p style={{ marginTop: 12 }}>
-                CPS helps reduce that risk by managing the full learning journey, from programme alignment
-                to student progress, support, completion and measurement.
+                CPS reduces that risk by managing the full learning journey - from programme alignment to
+                completion - with a team that has spent 25 years inside the sector and knows what
+                actually moves the needle.
               </p>
             </div>
           </Reveal>
@@ -496,11 +499,11 @@ export default function OrganisationsHome() {
           <div className="cta-band-grid">
             <div>
               <span className="mono" style={{ color: "var(--cps-yellow)" }}>Let&apos;s talk</span>
-              <h2 style={{ marginTop: 16, color: "white" }}>Bring us the capability challenge. We&apos;ll help design the learning path.</h2>
+              <h2 style={{ marginTop: 16, color: "white" }}>Bring us the capability gap. We&apos;ve seen it before.</h2>
               <p style={{ color: "rgba(255,255,255,0.85)" }}>
-                Whether you are building a leadership pipeline, developing advisors, supporting banking
-                capability or scaling learning across a network, CPS can help structure the programme and
-                manage the journey.
+                Whether it&apos;s a leadership pipeline, an advisor network, business banking capability or
+                a scaled learning programme - we&apos;ve built something close to it for someone in the
+                sector. Tell us where you&apos;re trying to get to, and we&apos;ll help you map the path.
               </p>
               <div className="cta-band-actions" style={{ marginTop: 32 }}>
                 <Link href="/contact#partnerships" className="btn btn-yellow btn-lg">Request a conversation</Link>

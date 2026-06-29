@@ -35,13 +35,14 @@ export default function StudentsHome() {
               <span className="dot" /> #ShapeYourFuture &nbsp;//&nbsp; Accredited Qualifications
             </span>
             <h1 className="hero-headline">
-              <span className="hero-line">Get the qualification</span>
-              <span className="hero-line"><span className="accent-word">that moves your career</span></span>
-              <span className="hero-line">forward.</span>
+              <span className="hero-line">Become someone</span>
+              <span className="hero-line"><span className="accent-word">banking and financial</span></span>
+              <span className="hero-line">services want to hire.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              Study accredited banking, insurance, financial services and leadership programmes designed for South African
-              professionals who want recognised credentials, practical knowledge and a clearer path forward.
+              For 25 years, we&apos;ve built the people the financial sector counts on. Accredited banking, business
+              banking and leadership qualifications - designed for working South Africans who want a recognised
+              credential and a clear next step into the sector.
             </p>
 
             <div className="hero-cta-row hero-fade-in">
@@ -58,7 +59,7 @@ export default function StudentsHome() {
       </section>
 
       {/* CLIENT LOGOS */}
-      <ClientLogos label="CPS has worked with students, teams or programmes connected to leading South African and international financial services organisations." />
+      <ClientLogos label="The banks, insurers and financial services groups whose people have studied with CPS." />
 
       {/* SUPPORTING PARAGRAPH BAND - centered, breathing room above + below */}
       <section style={{ padding: "120px 0 120px" }}>
@@ -72,8 +73,8 @@ export default function StudentsHome() {
               textAlign: "center",
               letterSpacing: "-0.005em",
             }}>
-              Choosing a qualification is a serious decision. You need to know the programme is recognised,
-              the learning journey is structured, and there is support to help you complete.
+              Banking and financial services don&apos;t just hire qualifications. They hire people who
+              understand the language, the rules and the work.
             </p>
             <p style={{
               fontSize: "clamp(20px, 1.6vw, 26px)",
@@ -84,8 +85,8 @@ export default function StudentsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              CPS brings those pieces together through accredited programmes, guided learning pathways and
-              more than 25 years of experience in financial services education.
+              Since 1999, we&apos;ve built every CPS qualification around that reality. The result is people the
+              sector wants to interview, hire and promote.
             </p>
           </Reveal>
         </div>
@@ -104,23 +105,23 @@ export default function StudentsHome() {
           <div className="career-grid">
             <Reveal as="div" className="phase" delay={0}>
               <div className="phase-num">VALUE 01</div>
-              <h3>Build credibility</h3>
-              <p>Gain a qualification aligned to recognised education and occupational frameworks.</p>
+              <h3>Earn a credential the sector recognises</h3>
+              <p>CHE and QCTO-aligned qualifications. The credentials banks and insurers know by name.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={100}>
               <div className="phase-num">VALUE 02</div>
-              <h3>Build confidence</h3>
-              <p>Understand the concepts, language and expectations of financial services roles.</p>
+              <h3>Learn the sector, not theory</h3>
+              <p>Built on 25 years inside banking. You learn the language, the rules and the work.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={200}>
               <div className="phase-num">VALUE 03</div>
-              <h3>Build direction</h3>
-              <p>Choose a programme linked to a specific career pathway, not a generic study option.</p>
+              <h3>Choose a path, not a programme</h3>
+              <p>Three pathways into real banking and financial services careers. Pick the one that fits.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={300}>
               <div className="phase-num">VALUE 04</div>
-              <h3>Build momentum</h3>
-              <p>Follow a structured learning journey designed to help you stay on track and complete.</p>
+              <h3>Finish what you start</h3>
+              <p>Structured learning, faster feedback and visible progress. Built to help you complete.</p>
             </Reveal>
           </div>
         </div>
@@ -131,12 +132,12 @@ export default function StudentsHome() {
         <div className="container">
           <Reveal as="div" className="section-head">
             <div className="left">
-              <span className="eyebrow"><span className="dot" /> Featured student programmes</span>
-              <h2>Three primary pathways. Pick the one that fits your next step.</h2>
+              <span className="eyebrow"><span className="dot" /> Three ways in</span>
+              <h2>Three pathways into banking and financial services.</h2>
               <p>
-                Three 12-month higher-education qualifications designed for working South African
-                professionals. Two banking pathways - a general foundation and a business-banking
-                specialisation - plus a leadership credential. All three are CHE-accredited.
+                Three 12-month, CHE-accredited qualifications, all designed for working South Africans.
+                A banking foundation, a business banking specialisation, and a leadership credential
+                the sector recognises.
               </p>
             </div>
             <Link href="/programmes" className="liquid-glass btn-lg" style={{ borderRadius: 14, padding: "14px 22px", display: "inline-flex", alignItems: "center", gap: 8 }}>
@@ -186,11 +187,12 @@ export default function StudentsHome() {
         <div className="container">
           <Reveal style={{ maxWidth: 720 }}>
             <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-blue)" }} /> Why completion matters</span>
-            <h2 style={{ marginTop: 16 }}>Starting is important. Finishing is what changes your future.</h2>
+            <h2 style={{ marginTop: 16 }}>Starting is common. Finishing is what banks hire for.</h2>
             <p style={{ marginTop: 16, fontSize: 17 }}>
-              A qualification only creates value when students complete it and can apply what they have
-              learned. CPS places strong emphasis on structured journeys, support and progress tracking
-              because these are the things that help students stay committed through the full programme.
+              A qualification only counts when you finish it and can apply it. We&apos;ve spent 25 years
+              learning what helps working professionals complete - structured learning journeys, faster
+              feedback, real support and progress you can see. The result is a completion rate ahead of
+              the sector average.
             </p>
           </Reveal>
           <div className="stats-grid">
@@ -198,7 +200,7 @@ export default function StudentsHome() {
               <span className="mono">Professionals trained</span>
               <div>
                 <div className="big"><CountUp to={29860} /><sup>+</sup></div>
-                <div className="desc">Across more than two decades, CPS programmes have supported tens of thousands of South African professionals in building recognised capability.</div>
+                <div className="desc">Across 25 years, CPS programmes have built recognised capability for tens of thousands of South African professionals - the majority of them inside banking and financial services.</div>
               </div>
             </Reveal>
             <Reveal as="div" className="stat-card" delay={120}>
@@ -212,7 +214,7 @@ export default function StudentsHome() {
               <span className="mono">In market</span>
               <div>
                 <div className="big"><CountUp to={25} /><sup>y</sup></div>
-                <div className="desc">More than 25 years of focused experience in financial services education, with deep relationships across the sector.</div>
+                <div className="desc">Since 1999, every cohort, every programme, inside banking and financial services. Relationships with the sector that pre-date most of the platforms it now uses.</div>
               </div>
             </Reveal>
           </div>
@@ -311,10 +313,10 @@ export default function StudentsHome() {
           <div className="cta-band-grid">
             <Reveal as="div">
               <span className="mono" style={{ color: "#0B6E94" }}>#ShapeYourFuture</span>
-              <h2 style={{ marginTop: 16 }}>Ready to take the next step?</h2>
+              <h2 style={{ marginTop: 16 }}>Ready to step into the sector?</h2>
               <p>
-                Tell us what you want to study, and the admissions team will help you understand the right
-                programme, requirements and next step.
+                Tell us where you want to land in banking or financial services. Admissions will help you
+                pick the programme, understand the requirements, and take the next step with clarity.
               </p>
               <div className="cta-band-actions">
                 <Link href="/programmes" className="btn btn-yellow btn-lg">Browse student programmes</Link>

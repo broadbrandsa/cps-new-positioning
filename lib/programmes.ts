@@ -112,7 +112,7 @@ export const PROGRAMMES: Record<string, Programme> = {
       { label: "Higher Education" },
       { label: "120 credits" },
     ],
-    lede: "Launch banking careers with comprehensive foundations that last.",
+    lede: "The 12-month, CHE-accredited foundation that gets banks to take your CV seriously. Built by the people the sector has counted on for 25 years.",
     meta: [
       { lbl: "Monthly", val: "R2,480", big: true, yellow: true },
       { lbl: "Duration", val: "12 months" },
@@ -201,7 +201,7 @@ export const PROGRAMMES: Record<string, Programme> = {
       { label: "Higher Education" },
       { label: "120 credits" },
     ],
-    lede: "Get the qualification and skills that South Africa's major banks need to grow business banking professionals.",
+    lede: "The business-banking specialisation South Africa's major banks ask us to build. The qualification and the skills they look for when they grow business banking professionals from within.",
     meta: [
       { lbl: "Monthly", val: "R2,480", big: true, yellow: true },
       { lbl: "Duration", val: "12 months" },
@@ -292,7 +292,7 @@ export const PROGRAMMES: Record<string, Programme> = {
       { label: "Higher Education" },
       { label: "120 credits" },
     ],
-    lede: "Develop leaders who consistently deliver strategic outcomes.",
+    lede: "The CHE-accredited leadership credential recognised across financial services and beyond. For the next layer of leaders banking and insurance trust to deliver.",
     meta: [
       { lbl: "Monthly", val: "R2,688", big: true, yellow: true },
       { lbl: "Duration", val: "12 months" },

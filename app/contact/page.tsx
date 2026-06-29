@@ -112,10 +112,11 @@ export default function ContactPage() {
           <div className="cta-band-grid">
             <div>
               <span className="mono" style={{ color: "var(--cps-yellow)" }}>For organisations</span>
-              <h2 style={{ marginTop: 16, color: "white" }}>Request a conversation.</h2>
+              <h2 style={{ marginTop: 16, color: "white" }}>Bring us the capability gap.</h2>
               <p style={{ color: "rgba(255,255,255,0.85)", maxWidth: 480 }}>
-                Speak to CPS about workforce programmes, cohort delivery, occupational qualifications,
-                leadership development, advisor capability or platform-supported learning.
+                25 years of building people for banking and financial services. Talk to us about
+                workforce programmes, cohort delivery, occupational qualifications, leadership pipelines,
+                advisor capability or platform-supported learning.
               </p>
               <div style={{ display: "flex", gap: 24, flexWrap: "wrap", marginTop: 32 }}>
                 <div>
