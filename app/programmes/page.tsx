@@ -62,8 +62,9 @@ export default function StudentsProgrammes() {
             <span className="eyebrow"><span className="dot" /> Student Programmes</span>
             <h1>Three pathways into banking and financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
-              Three 12-month, CHE-accredited qualifications - all built by the people the sector has
-              counted on for 25 years. A banking foundation, a business banking specialisation, and a
+              Three 12-month, CHE-accredited qualifications - all built by the specialist the sector has counted
+              on for 25 years. We only do banking and financial services, which is why employers recognise these
+              credentials ahead of generic ones. A banking foundation, a business banking specialisation, and a
               leadership credential. Pick the one that fits where you want to land.
             </p>
           </div>
@@ -78,9 +79,10 @@ export default function StudentsProgrammes() {
               <span className="eyebrow"><span className="dot" /> Primary Student Programmes</span>
               <h2>Three pathways. All CHE-accredited. All built for the sector.</h2>
               <p>
-                12 months each, designed for working professionals, recognised by the banks and
-                insurers that employ them. Choose the banking foundation, the business banking
-                specialisation, or the leadership credential.
+                12 months each, designed for working professionals, and recognised by the banks and insurers that
+                employ them. Because we focus on this sector alone, a CPS qualification carries weight a generic
+                course can&apos;t. Choose the banking foundation, the business banking specialisation, or the
+                leadership credential.
               </p>
             </div>
           </Reveal>

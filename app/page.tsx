@@ -40,9 +40,9 @@ export default function StudentsHome() {
               <span className="hero-line">services want to hire.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              For 25 years, we&apos;ve built the people the financial sector counts on. Accredited banking, business
-              banking and leadership qualifications - designed for working South Africans who want a recognised
-              credential and a clear next step into the sector.
+              For 25 years we&apos;ve done one thing: build people for banking and financial services. Not a general
+              college that also offers finance - a specialist the sector helped shape. That focus is why employers
+              take a CPS qualification seriously, and why our graduates get hired ahead of generic credentials.
             </p>
 
             <div className="hero-cta-row hero-fade-in">
@@ -85,8 +85,9 @@ export default function StudentsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              Since 1999, we&apos;ve built every CPS qualification around that reality. The result is people the
-              sector wants to interview, hire and promote.
+              So we don&apos;t teach a bit of everything. Since 1999 we&apos;ve focused on one sector - learning how
+              banks actually hire, what regulators expect, and what makes someone promotable. A CPS qualification
+              competes with the one thing a generic course can&apos;t offer: it was built with the people doing the hiring.
             </p>
           </Reveal>
         </div>
@@ -179,6 +180,41 @@ export default function StudentsHome() {
             })}
           </div>
 
+        </div>
+      </section>
+
+      {/* WHY CPS OVER ANOTHER PROVIDER */}
+      <section className="section-tinted">
+        <div className="container">
+          <Reveal as="div" className="section-head">
+            <div className="left">
+              <span className="eyebrow"><span className="dot" /> Why CPS, not a generic course</span>
+              <h2>A qualification is only worth what the sector thinks of it.</h2>
+              <p>
+                Plenty of providers will sell you a finance certificate. Few are built by the sector, for the
+                sector. Because banking and financial services is the only thing we do, our qualifications carry
+                the names, the modules and the standards employers already recognise - so when a CPS graduate and
+                a general-college graduate apply for the same role, the CPS name does work the other one can&apos;t.
+              </p>
+            </div>
+          </Reveal>
+          <div className="phases-grid" style={{ gridTemplateColumns: "repeat(3, 1fr)" }}>
+            <Reveal as="div" className="phase" delay={0}>
+              <div className="phase-num">WHY 01</div>
+              <h3>Recognised by name</h3>
+              <p>CHE and QCTO-aligned credentials the banks and insurers already know - not a qualification they have to look up.</p>
+            </Reveal>
+            <Reveal as="div" className="phase" delay={120}>
+              <div className="phase-num">WHY 02</div>
+              <h3>Built backwards from the job</h3>
+              <p>Every programme is reverse-engineered from a real role in financial services. You learn the work, not the textbook.</p>
+            </Reveal>
+            <Reveal as="div" className="phase" delay={240}>
+              <div className="phase-num">WHY 03</div>
+              <h3>Backed by sector relationships</h3>
+              <p>25 years of building cohorts for the banks, insurers and broker networks that do the hiring - the relationships behind your credential.</p>
+            </Reveal>
+          </div>
         </div>
       </section>
 

@@ -41,9 +41,10 @@ export default function OrganisationsHome() {
               <span className="hero-line">services count on.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              For 25 years, we&apos;ve been the learning partner the sector turns to. CPS designs and delivers
-              accredited workforce education for banks, insurers, broker networks and financial services
-              groups - programmes that build capability, support compliance and produce measurable progress.
+              For 25 years we&apos;ve done one thing: build people for banking and financial services. Not a
+              generalist training company with a finance module - a specialist the sector turns to. CPS designs
+              and delivers accredited workforce education for banks, insurers, broker networks and financial
+              services groups: programmes that build capability, support compliance and produce measurable progress.
             </p>
 
             <div className="hero-cta-row hero-fade-in">
@@ -100,9 +101,9 @@ export default function OrganisationsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              They need a partner who&apos;s spent 25 years inside the sector. One that knows how banks
-              actually develop people, what regulators expect to see, and what it takes to move staff from
-              training delivered to capability earned.
+              We&apos;re not a generalist training company with a finance module. Banking and financial services is
+              the only thing we do - which is why we know how your sector develops people, what your regulators
+              expect to see, and what it takes to move staff from training delivered to capability earned.
             </p>
           </Reveal>
         </div>
