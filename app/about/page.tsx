@@ -12,7 +12,7 @@ import {
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Since 1999, Cornerstone Performance Solutions has been the learning partner financial services counts on - specialists in banking and insurance. 25 years inside the sector, building the people who run it.",
+    "Since 1999, Cornerstone Performance Solutions has been the learning partner financial services counts on, specialists in banking and insurance. 25 years inside the sector, building the people who run it.",
 };
 
 export default function AboutPage() {
@@ -31,7 +31,7 @@ export default function AboutPage() {
             <Reveal as="div" delay={120} className="about-hero-text">
               <h1 className="about-display">25 years inside the sector.</h1>
               <p className="about-lede">
-                Since 1999, we&apos;ve built the people financial services counts on - specialists in
+                Since 1999, we&apos;ve built the people financial services counts on, specialists in
                 banking and insurance. First one cohort, then thousands, then a generation.
               </p>
             </Reveal>
@@ -52,10 +52,10 @@ export default function AboutPage() {
               <p className="lead">
                 In 1999, Cornerstone Performance Solutions was founded with a specific job to do: design
                 learning that builds real people for real roles across <em>South Africa&apos;s financial
-                services sector</em> - with deep specialism in banking and insurance.
+                services sector</em>, with deep specialism in banking and insurance.
               </p>
               <p>
-                That focus has never moved. 25 years on, we&apos;re still doing the same job - building
+                That focus has never moved. 25 years on, we&apos;re still doing the same job, building
                 qualifications, cohorts and platforms that the sector knows by name, and that the people
                 who finish them carry into careers in the banks, insurers and broker networks that
                 trained their predecessors.
@@ -92,12 +92,12 @@ export default function AboutPage() {
               <p className="ceo-role">Chief Executive Officer, Cornerstone Performance Solutions</p>
 
               <p>
-                Indira leads CPS - setting the academic and vocational strategy, building the
+                Indira leads CPS, setting the academic and vocational strategy, building the
                 partnerships, expanding the programme reach and the delivery capability that sits behind
                 it. She runs the team that runs the cohorts.
               </p>
               <p>
-                Before CPS, Indira spent 26 years inside financial services - including executive
+                Before CPS, Indira spent 26 years inside financial services, including executive
                 positions as Head of Private Banking and Head of Business Banking Channel at one of
                 South Africa&apos;s major banks. She holds a Ph.D. and an MBA.
               </p>
@@ -125,7 +125,7 @@ export default function AboutPage() {
               <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-blue)" }} /> The team</span>
               <h2>The people the sector knows by name.</h2>
               <p>
-                Educators, learning designers, programme managers and delivery specialists - many with
+                Educators, learning designers, programme managers and delivery specialists, many with
                 careers inside banking, insurance and financial services before they joined CPS. The
                 people you call when a programme matters and the cohort is real.
               </p>
@@ -145,7 +145,7 @@ export default function AboutPage() {
           <div className="team-grid">
             {[
               { slug: "indira",    name: "Dr Indira Bhagaloo", role: "Chief Executive Officer" },
-              { slug: "cliff",     name: "Dr Cliff Brunette",  role: "Executive: Learning & Teaching - People & Culture" },
+              { slug: "cliff",     name: "Dr Cliff Brunette",  role: "Executive: Learning & Teaching, People & Culture" },
               { slug: "karen-b",   name: "Karen Blore",        role: "Executive: Strategy & Technology" },
               { slug: "karen-v",   name: "Karen Vester",       role: "Registrar & Educational Compliance Lead" },
               { slug: "susan",     name: "Susan Nel",          role: "Learning Operations Lead" },
@@ -193,7 +193,7 @@ export default function AboutPage() {
             <div className="philosophy-body">
               <p>
                 25 years of building cohorts for banks, insurers and broker networks taught us one
-                thing - the credential matters, but capability is what gets people hired, promoted and
+                thing, the credential matters, but capability is what gets people hired, promoted and
                 kept. So that&apos;s what we build for.
               </p>
               <p>
@@ -229,7 +229,7 @@ export default function AboutPage() {
                   <h3>Sector first, always</h3>
                   <p>
                     Every CPS programme is built around the work people actually do in financial
-                    services - specifically in banking and insurance. We design backwards from the role,
+                    services, specifically in banking and insurance. We design backwards from the role,
                     not forwards from a textbook.
                   </p>
                   <span className="value-flip-hint" aria-hidden>Hover to reveal</span>
@@ -248,7 +248,7 @@ export default function AboutPage() {
                   <h3>Built to be finished</h3>
                   <p>
                     A qualification only counts when you complete it. Structured journeys, faster
-                    feedback and visible progress aren&apos;t nice-to-haves - they&apos;re what
+                    feedback and visible progress aren&apos;t nice-to-haves, they&apos;re what
                     separates a credential from a certificate of attendance.
                   </p>
                   <span className="value-flip-hint" aria-hidden>Hover to reveal</span>
@@ -266,7 +266,7 @@ export default function AboutPage() {
                   <span className="value-num">VALUE 03</span>
                   <h3>Ready, not just qualified</h3>
                   <p>
-                    We measure ourselves against where students land after the programme - the role
+                    We measure ourselves against where students land after the programme, the role
                     they step into, the promotion they earn, the work they can now do. Capability is
                     the outcome. Everything else is a means.
                   </p>

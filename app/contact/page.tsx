@@ -63,7 +63,7 @@ export default function ContactPage() {
                 <ul>
                   <li>
                     <strong>A R300 application fee</strong> is payable upon completing your application
-                    - not after acceptance.
+                   , not after acceptance.
                   </li>
                   <li>
                     Individual students may apply for <strong>HCIB</strong> and <strong>ACL</strong> only.
@@ -114,7 +114,7 @@ export default function ContactPage() {
               <span className="mono" style={{ color: "var(--cps-yellow)" }}>For organisations</span>
               <h2 style={{ marginTop: 16, color: "white" }}>Bring us the capability gap.</h2>
               <p style={{ color: "rgba(255,255,255,0.85)", maxWidth: 480 }}>
-                25 years of building people for financial services - specialists in banking and insurance.
+                25 years of building people for financial services, specialists in banking and insurance.
                 Talk to us about workforce programmes, cohort delivery, occupational qualifications,
                 leadership pipelines, advisor capability or platform-supported learning.
               </p>

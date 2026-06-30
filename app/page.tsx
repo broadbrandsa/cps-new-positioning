@@ -40,7 +40,7 @@ export default function StudentsHome() {
               <span className="hero-line">want to hire.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              For 25 years we&apos;ve done one thing: build people for financial services - specialists in
+              For 25 years we&apos;ve done one thing: build people for financial services, specialists in
               banking and insurance. Not a general college that also offers finance, a sector specialist the
               industry helped shape. That focus is why employers take a CPS qualification seriously, and why
               our graduates get hired ahead of generic credentials.
@@ -75,7 +75,7 @@ export default function StudentsHome() {
               letterSpacing: "-0.005em",
             }}>
               Financial services doesn&apos;t just hire qualifications. It hires people who understand the
-              language, the rules and the work - especially in banking and insurance.
+              language, the rules and the work, especially in banking and insurance.
             </p>
             <p style={{
               fontSize: "clamp(20px, 1.6vw, 26px)",
@@ -87,7 +87,7 @@ export default function StudentsHome() {
               marginTop: 24,
             }}>
               So we don&apos;t teach a bit of everything. Since 1999 we&apos;ve built our programmes hand-in-hand
-              with the banks, insurers and broker networks that hire from them - 25 years of working
+              with the banks, insurers and broker networks that hire from them, 25 years of working
               relationships with the people doing the hiring. The names on a CPS qualification are the names
               their HR teams already recognise, which is why our graduates get shortlisted where a generic
               credential gets put aside.
@@ -120,7 +120,7 @@ export default function StudentsHome() {
             <Reveal as="div" className="phase" delay={200}>
               <div className="phase-num">VALUE 03</div>
               <h3>Choose a path, not a programme</h3>
-              <p>Three pathways into real financial services careers - banking, business banking and leadership. Pick the one that fits.</p>
+              <p>Three pathways into real financial services careers, banking, business banking and leadership. Pick the one that fits.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={300}>
               <div className="phase-num">VALUE 04</div>
@@ -195,8 +195,8 @@ export default function StudentsHome() {
               <h2>A qualification is only worth what the sector thinks of it.</h2>
               <p>
                 Plenty of providers will sell you a finance certificate. Few are built by the sector, for the
-                sector. Because financial services is the only thing we do - and banking and insurance is what
-                we know inside out - our qualifications carry the names, the modules and the standards
+                sector. Because financial services is the only thing we do, and banking and insurance is what
+                we know inside out, our qualifications carry the names, the modules and the standards
                 employers already recognise. When a CPS graduate and a general-college graduate apply for the
                 same role, the CPS name does work the other one can&apos;t.
               </p>
@@ -206,17 +206,17 @@ export default function StudentsHome() {
             <Reveal as="div" className="phase" delay={0}>
               <div className="phase-num">WHY 01</div>
               <h3>Recognised by name</h3>
-              <p>CHE and QCTO-aligned credentials the banks and insurers already know - not a qualification they have to look up.</p>
+              <p>CHE and QCTO-aligned credentials the banks and insurers already know, not a qualification they have to look up.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={120}>
               <div className="phase-num">WHY 02</div>
               <h3>Built backwards from the job</h3>
-              <p>Every programme is reverse-engineered from a real role - a banker, an insurer, an advisor. You learn the work, not the textbook.</p>
+              <p>Every programme is reverse-engineered from a real role, a banker, an insurer, an advisor. You learn the work, not the textbook.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={240}>
               <div className="phase-num">WHY 03</div>
               <h3>Backed by sector relationships</h3>
-              <p>Two decades of working relationships with the banks, insurers and broker networks that do the hiring - the same people we built the curriculum with, who now recognise the credential by name.</p>
+              <p>Two decades of working relationships with the banks, insurers and broker networks that do the hiring, the same people we built the curriculum with, who now recognise the credential by name.</p>
             </Reveal>
           </div>
         </div>
@@ -230,7 +230,7 @@ export default function StudentsHome() {
             <h2 style={{ marginTop: 16 }}>Starting is common. Finishing is what banks hire for.</h2>
             <p style={{ marginTop: 16, fontSize: 17 }}>
               A qualification only counts when you finish it and can apply it. We&apos;ve spent 25 years
-              learning what helps working professionals complete - structured learning journeys, faster
+              learning what helps working professionals complete, structured learning journeys, faster
               feedback, real support and progress you can see. The result is a completion rate ahead of
               the sector average.
             </p>
@@ -240,7 +240,7 @@ export default function StudentsHome() {
               <span className="mono">Professionals trained</span>
               <div>
                 <div className="big"><CountUp to={29860} /><sup>+</sup></div>
-                <div className="desc">Across 25 years, CPS programmes have built recognised capability for tens of thousands of South African professionals - the majority of them inside financial services, in banking and insurance roles.</div>
+                <div className="desc">Across 25 years, CPS programmes have built recognised capability for tens of thousands of South African professionals, the majority of them inside financial services, in banking and insurance roles.</div>
               </div>
             </Reveal>
             <Reveal as="div" className="stat-card" delay={120}>

@@ -8,7 +8,7 @@ import { getStudentProgrammes, valueStreamLabel, type Programme } from "@/lib/pr
 export const metadata: Metadata = {
   title: "Programmes for Students",
   description:
-    "Three CHE-accredited pathways into financial services - the Higher Certificate in Banking, the Business Banking specialisation, and the Advanced Certificate in Leadership. Built by the specialists the sector has counted on for 25 years.",
+    "Three CHE-accredited pathways into financial services, the Higher Certificate in Banking, the Business Banking specialisation, and the Advanced Certificate in Leadership. Built by the specialists the sector has counted on for 25 years.",
 };
 
 const students = getStudentProgrammes();
@@ -62,9 +62,9 @@ export default function StudentsProgrammes() {
             <span className="eyebrow"><span className="dot" /> Student Programmes</span>
             <h1>Three pathways into financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
-              Three 12-month, CHE-accredited qualifications - all built by the specialists the sector has
+              Three 12-month, CHE-accredited qualifications, all built by the specialists the sector has
               counted on for 25 years. We design them with the banks, insurers and broker networks that
-              hire from them, which is why their HR teams already recognise these credentials by name -
+              hire from them, which is why their HR teams already recognise these credentials by name,
               and why a CPS graduate gets shortlisted where a generic one gets put aside. A banking
               foundation, a business banking specialisation, and a leadership credential. Pick the one
               that fits where you want to land.
@@ -108,7 +108,7 @@ export default function StudentsProgrammes() {
               <h2>From enquiry to enrolment, know what happens next.</h2>
               <p>
                 You shouldn&apos;t need to figure out the process. 25 years of running cohorts taught us
-                that the clearest path is also the most respectful one - here it is, six steps, no
+                that the clearest path is also the most respectful one, here it is, six steps, no
                 surprises.
               </p>
             </div>
@@ -128,7 +128,7 @@ export default function StudentsProgrammes() {
             <Reveal as="div" className="timeline-step" delay={240}>
               <div className="marker">03</div>
               <h3>Apply or enquire</h3>
-              <p>Apply directly or request information first - move forward with clarity, not pressure.</p>
+              <p>Apply directly or request information first, move forward with clarity, not pressure.</p>
             </Reveal>
             <Reveal as="div" className="timeline-step" delay={360}>
               <div className="marker">04</div>

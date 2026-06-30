@@ -21,7 +21,7 @@ import { CountUp } from "@/components/count-up";
 export const metadata: Metadata = {
   title: "CPSLearn Platform",
   description:
-    "The CPSLearn Platform - the proprietary platform behind 25 years of CPS programme delivery for financial services, with deep specialism in banking and insurance. Structured learning journeys, assessment workflows, moderation, progress tracking and reporting visibility for cohort delivery.",
+    "The CPSLearn Platform, the proprietary platform behind 25 years of CPS programme delivery for financial services, with deep specialism in banking and insurance. Structured learning journeys, assessment workflows, moderation, progress tracking and reporting visibility for cohort delivery.",
 };
 
 export default function OrganisationsCPSLearn() {
@@ -36,7 +36,7 @@ export default function OrganisationsCPSLearn() {
             <span className="eyebrow"><span className="dot" /> CPSLearn Platform</span>
             <h1>The platform behind 25 years of cohort delivery in financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18, maxWidth: 720 }}>
-              CPSLearn is the proprietary platform behind every CPS programme - built and refined for
+              CPSLearn is the proprietary platform behind every CPS programme, built and refined for
               the structure, scrutiny and traceability that financial services education demands,
               especially in banking and insurance. Structured learning journeys, assessment workflows,
               moderation, progress tracking and reporting visibility, in one place.
@@ -49,7 +49,7 @@ export default function OrganisationsCPSLearn() {
           </div>
 
           <div className="hero-stats" style={{ marginTop: 48, maxWidth: 920 }}>
-            <div className="item"><div className="num" style={{ fontSize: 28 }}>2,000–2,700</div><div className="lbl">Active students</div></div>
+            <div className="item"><div className="num" style={{ fontSize: 28 }}>2,000-2,700</div><div className="lbl">Active students</div></div>
             <div className="item"><div className="num" style={{ fontSize: 28 }}>Proprietary</div><div className="lbl">CPS platform</div></div>
             <div className="item"><div className="num" style={{ fontSize: 28 }}>25 years</div><div className="lbl">of refinement</div></div>
             <div className="item"><div className="num" style={{ fontSize: 28 }}>Regulated</div><div className="lbl">learning environments</div></div>
@@ -109,7 +109,7 @@ export default function OrganisationsCPSLearn() {
             <Reveal as="div" className="editorial-body" delay={200}>
               <p>
                 Not every student starts at the same level. Some parts feel straightforward. Others don&apos;t.
-                CPSLearn is built to support that reality - helping identify where each student needs more
+                CPSLearn is built to support that reality, helping identify where each student needs more
                 focus, so cohort time is spent where it actually matters.
               </p>
               <p style={{ marginTop: 20, color: "var(--ink)", fontWeight: 500 }}>
@@ -120,7 +120,7 @@ export default function OrganisationsCPSLearn() {
             <Reveal as="div" className="editorial-aside" delay={280}>
               <div className="editorial-pull">
                 <span className="mono">In other words</span>
-                <p>The platform meets each student where they are - not where it assumes they should be.</p>
+                <p>The platform meets each student where they are, not where it assumes they should be.</p>
                 <span className="brand-mark" aria-hidden><Lightbulb /></span>
               </div>
             </Reveal>
@@ -193,7 +193,7 @@ export default function OrganisationsCPSLearn() {
               <p style={{ marginTop: 24, fontSize: 17, color: "var(--muted)", lineHeight: 1.55 }}>
                 Most organisations can report that training happened. Fewer can show whether the cohort
                 progressed, completed or actually built the capability the programme was meant to build.
-                CPSLearn closes that gap - so what you report is what your people can actually do.
+                CPSLearn closes that gap, so what you report is what your people can actually do.
               </p>
             </Reveal>
             <Reveal as="div" delay={120}>

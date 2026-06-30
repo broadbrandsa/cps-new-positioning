@@ -18,7 +18,7 @@ import { Spotlight } from "@/components/spotlight";
 export const metadata: Metadata = {
   title: "For Organisations",
   description:
-    "For 25 years, CPS has been the learning partner financial services counts on - specialists in banking and insurance. Accredited workforce education for banks, insurers, broker networks and regulated FS organisations.",
+    "For 25 years, CPS has been the learning partner financial services counts on, specialists in banking and insurance. Accredited workforce education for banks, insurers, broker networks and regulated FS organisations.",
 };
 
 export default function OrganisationsHome() {
@@ -41,10 +41,10 @@ export default function OrganisationsHome() {
               <span className="hero-line">counts on.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              For 25 years we&apos;ve done one thing: build people for financial services - specialists in
+              For 25 years we&apos;ve done one thing: build people for financial services, specialists in
               banking and insurance. The banks, insurers and broker networks that hire from our programmes
               are the same ones we&apos;ve worked alongside for two decades to design them. CPS delivers
-              accredited workforce education the sector already recognises by name - programmes that build
+              accredited workforce education the sector already recognises by name, programmes that build
               capability, support compliance and produce measurable progress.
             </p>
 
@@ -104,7 +104,7 @@ export default function OrganisationsHome() {
             }}>
               We&apos;re not a generalist training company with a finance module. Financial services is the
               only thing we do, with deep specialism in banking and insurance. That focus has built decades-long
-              working relationships with the banks, insurers and broker networks that hire from our programmes -
+              working relationships with the banks, insurers and broker networks that hire from our programmes,
               the same relationships that shape what we teach, so the qualifications we award are the ones your
               sector already recognises.
             </p>
@@ -124,7 +124,7 @@ export default function OrganisationsHome() {
               <h2>A learning partner who knows the sector. Not a once-off training provider.</h2>
               <p>
                 Accredited programmes, structured learning journeys, facilitator support, student tracking
-                and workplace relevance - all built by a team that&apos;s spent its career inside financial
+                and workplace relevance, all built by a team that&apos;s spent its career inside financial
                 services, with deep specialism in banking and insurance. The result is a more accountable
                 approach to workforce education.
               </p>
@@ -293,8 +293,8 @@ export default function OrganisationsHome() {
               <span className="eyebrow"><span className="dot" /> Primary workforce programmes</span>
               <h2>The programmes the sector actually pays for.</h2>
               <p>
-                We build financial services capability - in banking, insurance and the firms that connect
-                them - through three categories: occupational qualifications delivered as workplace-integrated
+                We build financial services capability, in banking, insurance and the firms that connect
+                them, through three categories: occupational qualifications delivered as workplace-integrated
                 learnerships, CHE-accredited higher education qualifications, and focused skills programmes
                 that close specific capability gaps.
               </p>
@@ -386,7 +386,7 @@ export default function OrganisationsHome() {
               <h2>A four-phase partnership, not a transaction.</h2>
               <p>
                 We&apos;ve been refining how we work with the sector for 25 years. Programmes are aligned
-                before launch, managed during delivery and connected back to outcomes after implementation -
+                before launch, managed during delivery and connected back to outcomes after implementation,
                 because that&apos;s what produces capability that lasts.
               </p>
             </div>
@@ -434,12 +434,12 @@ export default function OrganisationsHome() {
                 move the way the business needs it to.
               </p>
               <p style={{ marginTop: 12 }}>
-                For banks, insurers and regulated FS groups, capability gaps show up faster - in client
+                For banks, insurers and regulated FS groups, capability gaps show up faster, in client
                 experience, in compliance, in sales performance and in progression planning.
               </p>
               <p style={{ marginTop: 12 }}>
-                CPS reduces that risk by managing the full learning journey - from programme alignment to
-                completion - with a team that has spent 25 years inside the sector and knows what
+                CPS reduces that risk by managing the full learning journey, from programme alignment to
+                completion, with a team that has spent 25 years inside the sector and knows what
                 actually moves the needle.
               </p>
             </div>
@@ -508,7 +508,7 @@ export default function OrganisationsHome() {
               <h2 style={{ marginTop: 16, color: "white" }}>Bring us the capability gap. We&apos;ve seen it before.</h2>
               <p style={{ color: "rgba(255,255,255,0.85)" }}>
                 Whether it&apos;s a leadership pipeline, an advisor network, business banking capability or
-                a scaled learning programme - we&apos;ve built something close to it for someone in the
+                a scaled learning programme, we&apos;ve built something close to it for someone in the
                 sector. Tell us where you&apos;re trying to get to, and we&apos;ll help you map the path.
               </p>
               <div className="cta-band-actions" style={{ marginTop: 32 }}>

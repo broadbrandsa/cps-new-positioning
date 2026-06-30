@@ -124,12 +124,12 @@ export const PROGRAMMES: Record<string, Programme> = {
       { lbl: "Awarded by", val: "Higher Education (CHE)" },
     ],
     about:
-      "The Higher Certificate in Banking is a 12-month, NQF Level 5 higher education qualification designed to launch banking careers with strong, comprehensive foundations. Practical banking knowledge is taught alongside applied client-solutioning, ethics and compliance - by people who actually work in the sector.",
+      "The Higher Certificate in Banking is a 12-month, NQF Level 5 higher education qualification designed to launch banking careers with strong, comprehensive foundations. Practical banking knowledge is taught alongside applied client-solutioning, ethics and compliance, by people who actually work in the sector.",
     benefits: [
       "<strong>Recognised by SA's biggest banks</strong> for entry-level recruitment",
-      "<strong>Study while you work</strong> - flexible blended delivery",
-      "<strong>Mobile-friendly platform</strong> - CPSLearn adapts to your schedule and device",
-      "<strong>Industry practitioner teaching</strong> - not just textbook theory",
+      "<strong>Study while you work</strong>, flexible blended delivery",
+      "<strong>Mobile-friendly platform</strong>, CPSLearn adapts to your schedule and device",
+      "<strong>Industry practitioner teaching</strong>, not just textbook theory",
     ],
     modules: [
       "Academic Literacy",
@@ -164,15 +164,15 @@ export const PROGRAMMES: Record<string, Programme> = {
       },
       {
         q: "Is there an upfront fee?",
-        a: "There is no upfront fee. A R300 application fee is payable upon completing your application - not after acceptance. Tuition is billed monthly at R2,480 over the 12-month duration.",
+        a: "There is no upfront fee. A R300 application fee is payable upon completing your application, not after acceptance. Tuition is billed monthly at R2,480 over the 12-month duration.",
       },
       {
         q: "Will I be able to study while I work?",
-        a: "Yes - HCIB is delivered through CPSLearn with flexible, mobile-friendly access. The programme is designed for working professionals, so you can log in around your schedule and pick up where you left off.",
+        a: "Yes, HCIB is delivered through CPSLearn with flexible, mobile-friendly access. The programme is designed for working professionals, so you can log in around your schedule and pick up where you left off.",
       },
       {
         q: "How is the programme assessed?",
-        a: "Assessments are integrated throughout each module - not stacked at the end. Most assessments are returned with feedback within minutes through CPSLearn so the learning loop stays tight.",
+        a: "Assessments are integrated throughout each module, not stacked at the end. Most assessments are returned with feedback within minutes through CPSLearn so the learning loop stays tight.",
       },
       {
         q: "Is HCIB recognised by the major South African banks?",
@@ -193,7 +193,7 @@ export const PROGRAMMES: Record<string, Programme> = {
     saqaId: "111129",
     cat: "banking",
     kind: "qualification",
-    title: "Higher Certificate in Banking - Business Banking",
+    title: "Higher Certificate in Banking, Business Banking",
     shortTitle: "HCIBB",
     pills: [
       { label: "Business Banking", cls: "pill-blue" },
@@ -213,11 +213,11 @@ export const PROGRAMMES: Record<string, Programme> = {
       { lbl: "Awarded by", val: "Higher Education (CHE)" },
     ],
     about:
-      "The Higher Certificate in Banking - Business Banking is a 12-month, NQF Level 5 higher education qualification that gives students the complete skill set South African banks value most. Whether students are starting fresh or advancing their career, the seven modules transform how they think about business banking, and how banks think about them. Designed for matric graduates, bank staff, and anyone who needs learning that works around work, family and life.",
+      "The Higher Certificate in Banking, Business Banking is a 12-month, NQF Level 5 higher education qualification that gives students the complete skill set South African banks value most. Whether students are starting fresh or advancing their career, the seven modules transform how they think about business banking, and how banks think about them. Designed for matric graduates, bank staff, and anyone who needs learning that works around work, family and life.",
     benefits: [
       "<strong>Recognised by SA's biggest banks</strong> for entry-level recruitment",
-      "<strong>Business banking specialisation</strong> - commercial banking client advisory and business acumen",
-      "<strong>Study anywhere, anytime</strong> - flexible online learning on tablet, laptop or computer",
+      "<strong>Business banking specialisation</strong>, commercial banking client advisory and business acumen",
+      "<strong>Study anywhere, anytime</strong>, flexible online learning on tablet, laptop or computer",
       "<strong>NQF 5 CHE-accredited</strong> with clear progression to NQF 6 qualifications",
     ],
     modules: [
@@ -249,7 +249,7 @@ export const PROGRAMMES: Record<string, Programme> = {
     faqs: [
       {
         q: "How is this different from the standard Higher Certificate in Banking?",
-        a: "HCIB - Business Banking shares the same six core banking modules and same SAQA registration (111129) as the standard HCIB. The seventh module specialises in business banking - covering commercial banking principles, financial analysis, lending and client advisory for business and SME clients.",
+        a: "HCIB, Business Banking shares the same six core banking modules and same SAQA registration (111129) as the standard HCIB. The seventh module specialises in business banking, covering commercial banking principles, financial analysis, lending and client advisory for business and SME clients.",
       },
       {
         q: "Do I need business banking experience already?",
@@ -257,15 +257,15 @@ export const PROGRAMMES: Record<string, Programme> = {
       },
       {
         q: "Is there an upfront fee?",
-        a: "There is no upfront fee. A R300 application fee is payable upon completing your application - not after acceptance. Tuition is billed monthly at R2,480 over the 12-month duration.",
+        a: "There is no upfront fee. A R300 application fee is payable upon completing your application, not after acceptance. Tuition is billed monthly at R2,480 over the 12-month duration.",
       },
       {
         q: "Can my employer sponsor this programme?",
-        a: "Yes. Many banks sponsor HCIB - Business Banking for new client-facing hires and graduate-intake cohorts. Speak to admissions if you'd like to bring this to your employer, or if your employer is already enrolling cohorts.",
+        a: "Yes. Many banks sponsor HCIB, Business Banking for new client-facing hires and graduate-intake cohorts. Speak to admissions if you'd like to bring this to your employer, or if your employer is already enrolling cohorts.",
       },
       {
         q: "Will I be able to study while I work?",
-        a: "Yes - the programme is delivered through CPSLearn with flexible, mobile-friendly access designed for working professionals and students balancing work, family and life.",
+        a: "Yes, the programme is delivered through CPSLearn with flexible, mobile-friendly access designed for working professionals and students balancing work, family and life.",
       },
       {
         q: "What happens after I apply?",
@@ -273,7 +273,7 @@ export const PROGRAMMES: Record<string, Programme> = {
       },
     ],
     aboutFootnote:
-      "<strong>HCIB and HCIB - Business Banking share SAQA ID 111129.</strong> They differ in the seventh specialisation module - this version focuses specifically on commercial and business banking. Choose this version if you're heading into client-facing business banking roles.",
+      "<strong>HCIB and HCIB, Business Banking share SAQA ID 111129.</strong> They differ in the seventh specialisation module, this version focuses specifically on commercial and business banking. Choose this version if you're heading into client-facing business banking roles.",
   },
 
   "advanced-certificate-leadership": {
@@ -306,11 +306,11 @@ export const PROGRAMMES: Record<string, Programme> = {
     about:
       "Leadership Agility in the Financial Markets is the flagship next-step qualification for professionals who have outgrown technical mastery and are now leading teams, projects or change. Built on the methodology that won Brandon Hall recognition, it develops decision-making, paradigm shifts and applied leadership behaviour.",
     aboutFootnote:
-      "<strong>What's Brandon Hall?</strong> The Brandon Hall Group HCM Excellence Awards are one of the most respected international recognitions in learning and talent development - awarded to programmes that demonstrate measurable impact on people and performance. <a href=\"https://brandonhall.com/excellence-awards/\" target=\"_blank\" rel=\"noopener noreferrer\">See the awards programme ↗</a>",
+      "<strong>What's Brandon Hall?</strong> The Brandon Hall Group HCM Excellence Awards are one of the most respected international recognitions in learning and talent development, awarded to programmes that demonstrate measurable impact on people and performance. <a href=\"https://brandonhall.com/excellence-awards/\" target=\"_blank\" rel=\"noopener noreferrer\">See the awards programme ↗</a>",
     benefits: [
-      "<strong>Brandon Hall award-winning methodology</strong> - internationally recognised approach",
-      "<strong>Built for working leaders</strong> - fully online, study in evenings and weekends",
-      "<strong>Direct application</strong> - every module ends in workplace-applied competency",
+      "<strong>Brandon Hall award-winning methodology</strong>, internationally recognised approach",
+      "<strong>Built for working leaders</strong>, fully online, study in evenings and weekends",
+      "<strong>Direct application</strong>, every module ends in workplace-applied competency",
       "<strong>NQF 6 credential</strong> recognised across financial services and broader",
     ],
     modules: [
@@ -341,27 +341,27 @@ export const PROGRAMMES: Record<string, Programme> = {
     faqs: [
       {
         q: "Do I need prior leadership experience?",
-        a: "ACL is designed for professionals 3-7 years into their career - typically newly promoted team leads, mid-career professionals, or high-potential employees on a succession track. Formal leadership experience helps, but the programme is built to formalise emerging leadership capability, not to require it upfront.",
+        a: "ACL is designed for professionals 3-7 years into their career, typically newly promoted team leads, mid-career professionals, or high-potential employees on a succession track. Formal leadership experience helps, but the programme is built to formalise emerging leadership capability, not to require it upfront.",
       },
       {
         q: "Is there an upfront fee?",
-        a: "There is no upfront fee. A R300 application fee is payable upon completing your application - not after acceptance. Tuition is billed monthly at R2,688 over the 12-month duration.",
+        a: "There is no upfront fee. A R300 application fee is payable upon completing your application, not after acceptance. Tuition is billed monthly at R2,688 over the 12-month duration.",
       },
       {
         q: "How is ACL delivered?",
-        a: "Fully online through CPSLearn. The programme is designed for working leaders - you can study in the evenings and on weekends, log in from any device, and pick up where you left off without re-orienting.",
+        a: "Fully online through CPSLearn. The programme is designed for working leaders, you can study in the evenings and on weekends, log in from any device, and pick up where you left off without re-orienting.",
       },
       {
         q: "What makes ACL different from a generic leadership course?",
-        a: "ACL is built on Brandon Hall award-winning methodology and is an NQF Level 6 higher-education qualification (CHE accredited, SAQA ID 120160) - not a short course. Every module ends in workplace-applied competency, so you leave with behaviour change, not just theory.",
+        a: "ACL is built on Brandon Hall award-winning methodology and is an NQF Level 6 higher-education qualification (CHE accredited, SAQA ID 120160), not a short course. Every module ends in workplace-applied competency, so you leave with behaviour change, not just theory.",
       },
       {
         q: "Will ACL help me get promoted?",
-        a: "ACL is positioned for professionals stepping into formal team leadership, project leadership, or change roles. The programme develops the decision-making, paradigm-shift and applied leadership behaviour those roles require - and provides a recognised NQF 6 credential to back it up.",
+        a: "ACL is positioned for professionals stepping into formal team leadership, project leadership, or change roles. The programme develops the decision-making, paradigm-shift and applied leadership behaviour those roles require, and provides a recognised NQF 6 credential to back it up.",
       },
       {
         q: "Can my employer pay for it?",
-        a: "Yes - many organisations sponsor ACL for high-potential employees. Speak to admissions if your employer would like to sponsor your enrolment, or if you'd like an info pack to present internally.",
+        a: "Yes, many organisations sponsor ACL for high-potential employees. Speak to admissions if your employer would like to sponsor your enrolment, or if you'd like an info pack to present internally.",
       },
     ],
   },
