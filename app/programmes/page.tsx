@@ -157,14 +157,20 @@ export default function StudentsProgrammes() {
               <span className="eyebrow"><span className="dot" /> Need help choosing?</span>
               <h2>Not sure which programme is right for you?</h2>
               <p>
-                If you are unsure which qualification fits your background, career stage or goals, speak to
-                admissions. They can help you understand requirements, programme differences and the most
-                relevant next step.
+                If you&apos;re new to the sector and trying to work out which qualification fits, our
+                Career Paths page lays out every programme in plain English, the jobs each one unlocks,
+                and how a real financial services career progresses. If you&apos;d rather have a real
+                conversation, admissions is here for that too.
               </p>
             </div>
-            <Link href="/contact#admissions" className="btn btn-yellow btn-lg" style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
-              Talk to admissions
-            </Link>
+            <div style={{ display: "flex", flexDirection: "column", gap: 12, alignItems: "flex-start" }}>
+              <Link href="/career-paths" className="btn btn-yellow btn-lg" style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
+                See career paths <ArrowRight />
+              </Link>
+              <Link href="/contact#admissions" className="liquid-glass btn-lg" style={{ borderRadius: 14, padding: "14px 22px", display: "inline-flex", alignItems: "center", gap: 8 }}>
+                Talk to admissions
+              </Link>
+            </div>
           </Reveal>
         </div>
       </section>

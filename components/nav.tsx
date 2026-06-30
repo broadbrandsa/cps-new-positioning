@@ -10,6 +10,7 @@ type LinkSpec = { href: string; label: string; route: string };
 
 const studentLinks: LinkSpec[] = [
   { href: "/programmes", label: "Programmes", route: "programmes" },
+  { href: "/career-paths", label: "Career Paths", route: "career-paths" },
   { href: "/cpslearn", label: "CPSLearn", route: "platform" },
 ];
 
@@ -24,6 +25,7 @@ const routeForPath = (p: string): string => {
   if (p.startsWith("/organisations/programmes")) return "org-programmes";
   if (p.startsWith("/organisations/cpslearn")) return "org-platform";
   if (p.startsWith("/programmes")) return "programmes";
+  if (p.startsWith("/career-paths")) return "career-paths";
   if (p.startsWith("/cpslearn")) return "platform";
   if (p.startsWith("/about")) return "about";
   if (p.startsWith("/contact")) return "contact";
