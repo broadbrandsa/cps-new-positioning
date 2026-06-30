@@ -21,7 +21,7 @@ import { CountUp } from "@/components/count-up";
 export const metadata: Metadata = {
   title: "CPSLearn Platform",
   description:
-    "The CPSLearn Platform - the proprietary platform behind 25 years of CPS programme delivery in banking and financial services. Structured learning journeys, assessment workflows, moderation, progress tracking and reporting visibility for cohort delivery.",
+    "The CPSLearn Platform - the proprietary platform behind 25 years of CPS programme delivery for financial services, with deep specialism in banking and insurance. Structured learning journeys, assessment workflows, moderation, progress tracking and reporting visibility for cohort delivery.",
 };
 
 export default function OrganisationsCPSLearn() {
@@ -34,12 +34,12 @@ export default function OrganisationsCPSLearn() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 880 }}>
             <span className="eyebrow"><span className="dot" /> CPSLearn Platform</span>
-            <h1>The platform behind 25 years of cohort delivery in the sector.</h1>
+            <h1>The platform behind 25 years of cohort delivery in financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18, maxWidth: 720 }}>
               CPSLearn is the proprietary platform behind every CPS programme - built and refined for
-              the structure, scrutiny and traceability that banking and financial services education
-              demands. Structured learning journeys, assessment workflows, moderation, progress tracking
-              and reporting visibility, in one place.
+              the structure, scrutiny and traceability that financial services education demands,
+              especially in banking and insurance. Structured learning journeys, assessment workflows,
+              moderation, progress tracking and reporting visibility, in one place.
             </p>
             <p style={{ marginTop: 16, color: "var(--muted)", fontSize: 16, maxWidth: 720 }}>
               For your L&amp;D and HR teams, the value isn&apos;t just that staff have somewhere to

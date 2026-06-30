@@ -18,7 +18,7 @@ import { Spotlight } from "@/components/spotlight";
 export const metadata: Metadata = {
   title: "For Organisations",
   description:
-    "For 25 years, CPS has been the learning partner banking and financial services count on. Accredited workforce education programmes for banks, insurers, broker networks and regulated FS organisations.",
+    "For 25 years, CPS has been the learning partner financial services counts on - specialists in banking and insurance. Accredited workforce education for banks, insurers, broker networks and regulated FS organisations.",
 };
 
 export default function OrganisationsHome() {
@@ -37,14 +37,15 @@ export default function OrganisationsHome() {
             </span>
             <h1 className="hero-headline">
               <span className="hero-line">Build the people</span>
-              <span className="hero-line"><span className="accent-word">banking and financial</span></span>
-              <span className="hero-line">services count on.</span>
+              <span className="hero-line"><span className="accent-word">financial services</span></span>
+              <span className="hero-line">counts on.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              For 25 years we&apos;ve done one thing: build people for banking and financial services. Not a
-              generalist training company with a finance module - a specialist the sector turns to. CPS designs
-              and delivers accredited workforce education for banks, insurers, broker networks and financial
-              services groups: programmes that build capability, support compliance and produce measurable progress.
+              For 25 years we&apos;ve done one thing: build people for financial services - specialists in
+              banking and insurance. Not a generalist training company with a finance module, a sector
+              specialist the industry turns to. CPS designs and delivers accredited workforce education for
+              banks, insurers, broker networks and financial services groups: programmes that build
+              capability, support compliance and produce measurable progress.
             </p>
 
             <div className="hero-cta-row hero-fade-in">
@@ -101,9 +102,10 @@ export default function OrganisationsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              We&apos;re not a generalist training company with a finance module. Banking and financial services is
-              the only thing we do - which is why we know how your sector develops people, what your regulators
-              expect to see, and what it takes to move staff from training delivered to capability earned.
+              We&apos;re not a generalist training company with a finance module. Financial services is the
+              only thing we do - with deep specialism in banking and insurance - which is why we know how
+              your sector develops people, what your regulators expect to see, and what it takes to move
+              staff from training delivered to capability earned.
             </p>
           </Reveal>
         </div>
@@ -121,8 +123,9 @@ export default function OrganisationsHome() {
               <h2>A learning partner who knows the sector. Not a once-off training provider.</h2>
               <p>
                 Accredited programmes, structured learning journeys, facilitator support, student tracking
-                and workplace relevance - all built by a team that&apos;s spent its career inside banking
-                and financial services. The result is a more accountable approach to workforce education.
+                and workplace relevance - all built by a team that&apos;s spent its career inside financial
+                services, with deep specialism in banking and insurance. The result is a more accountable
+                approach to workforce education.
               </p>
             </div>
           </Reveal>
@@ -289,9 +292,10 @@ export default function OrganisationsHome() {
               <span className="eyebrow"><span className="dot" /> Primary workforce programmes</span>
               <h2>The programmes the sector actually pays for.</h2>
               <p>
-                We build banking and financial services capability through three categories: occupational
-                qualifications delivered as workplace-integrated learnerships, CHE-accredited higher
-                education qualifications, and focused skills programmes that close specific capability gaps.
+                We build financial services capability - in banking, insurance and the firms that connect
+                them - through three categories: occupational qualifications delivered as workplace-integrated
+                learnerships, CHE-accredited higher education qualifications, and focused skills programmes
+                that close specific capability gaps.
               </p>
             </div>
             <Link href="/organisations/programmes" className="liquid-glass btn-lg" style={{ borderRadius: 14, padding: "14px 22px", display: "inline-flex", alignItems: "center", gap: 8 }}>

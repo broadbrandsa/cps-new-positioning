@@ -36,13 +36,14 @@ export default function StudentsHome() {
             </span>
             <h1 className="hero-headline">
               <span className="hero-line">Become someone</span>
-              <span className="hero-line"><span className="accent-word">banking and financial</span></span>
-              <span className="hero-line">services want to hire.</span>
+              <span className="hero-line"><span className="accent-word">financial services</span></span>
+              <span className="hero-line">want to hire.</span>
             </h1>
             <p className="hero-sub hero-fade-in">
-              For 25 years we&apos;ve done one thing: build people for banking and financial services. Not a general
-              college that also offers finance - a specialist the sector helped shape. That focus is why employers
-              take a CPS qualification seriously, and why our graduates get hired ahead of generic credentials.
+              For 25 years we&apos;ve done one thing: build people for financial services - specialists in
+              banking and insurance. Not a general college that also offers finance, a sector specialist the
+              industry helped shape. That focus is why employers take a CPS qualification seriously, and why
+              our graduates get hired ahead of generic credentials.
             </p>
 
             <div className="hero-cta-row hero-fade-in">
@@ -73,8 +74,8 @@ export default function StudentsHome() {
               textAlign: "center",
               letterSpacing: "-0.005em",
             }}>
-              Banking and financial services don&apos;t just hire qualifications. They hire people who
-              understand the language, the rules and the work.
+              Financial services doesn&apos;t just hire qualifications. It hires people who understand the
+              language, the rules and the work - especially in banking and insurance.
             </p>
             <p style={{
               fontSize: "clamp(20px, 1.6vw, 26px)",
@@ -85,9 +86,9 @@ export default function StudentsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              So we don&apos;t teach a bit of everything. Since 1999 we&apos;ve focused on one sector - learning how
-              banks actually hire, what regulators expect, and what makes someone promotable. A CPS qualification
-              competes with the one thing a generic course can&apos;t offer: it was built with the people doing the hiring.
+              So we don&apos;t teach a bit of everything. Since 1999 we&apos;ve focused on one sector - financial
+              services, with deep specialism in banking and insurance. A CPS qualification competes with the
+              one thing a generic course can&apos;t offer: it was built with the people doing the hiring.
             </p>
           </Reveal>
         </div>
@@ -112,12 +113,12 @@ export default function StudentsHome() {
             <Reveal as="div" className="phase" delay={100}>
               <div className="phase-num">VALUE 02</div>
               <h3>Learn the sector, not theory</h3>
-              <p>Built on 25 years inside banking. You learn the language, the rules and the work.</p>
+              <p>Built on 25 years inside financial services. You learn the language, the rules and the work of banking and insurance.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={200}>
               <div className="phase-num">VALUE 03</div>
               <h3>Choose a path, not a programme</h3>
-              <p>Three pathways into real banking and financial services careers. Pick the one that fits.</p>
+              <p>Three pathways into real financial services careers - banking, business banking and leadership. Pick the one that fits.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={300}>
               <div className="phase-num">VALUE 04</div>
@@ -134,7 +135,7 @@ export default function StudentsHome() {
           <Reveal as="div" className="section-head">
             <div className="left">
               <span className="eyebrow"><span className="dot" /> Three ways in</span>
-              <h2>Three pathways into banking and financial services.</h2>
+              <h2>Three pathways into financial services.</h2>
               <p>
                 Three 12-month, CHE-accredited qualifications, all designed for working South Africans.
                 A banking foundation, a business banking specialisation, and a leadership credential
@@ -192,9 +193,10 @@ export default function StudentsHome() {
               <h2>A qualification is only worth what the sector thinks of it.</h2>
               <p>
                 Plenty of providers will sell you a finance certificate. Few are built by the sector, for the
-                sector. Because banking and financial services is the only thing we do, our qualifications carry
-                the names, the modules and the standards employers already recognise - so when a CPS graduate and
-                a general-college graduate apply for the same role, the CPS name does work the other one can&apos;t.
+                sector. Because financial services is the only thing we do - and banking and insurance is what
+                we know inside out - our qualifications carry the names, the modules and the standards
+                employers already recognise. When a CPS graduate and a general-college graduate apply for the
+                same role, the CPS name does work the other one can&apos;t.
               </p>
             </div>
           </Reveal>
@@ -207,7 +209,7 @@ export default function StudentsHome() {
             <Reveal as="div" className="phase" delay={120}>
               <div className="phase-num">WHY 02</div>
               <h3>Built backwards from the job</h3>
-              <p>Every programme is reverse-engineered from a real role in financial services. You learn the work, not the textbook.</p>
+              <p>Every programme is reverse-engineered from a real role - a banker, an insurer, an advisor. You learn the work, not the textbook.</p>
             </Reveal>
             <Reveal as="div" className="phase" delay={240}>
               <div className="phase-num">WHY 03</div>
@@ -236,7 +238,7 @@ export default function StudentsHome() {
               <span className="mono">Professionals trained</span>
               <div>
                 <div className="big"><CountUp to={29860} /><sup>+</sup></div>
-                <div className="desc">Across 25 years, CPS programmes have built recognised capability for tens of thousands of South African professionals - the majority of them inside banking and financial services.</div>
+                <div className="desc">Across 25 years, CPS programmes have built recognised capability for tens of thousands of South African professionals - the majority of them inside financial services, in banking and insurance roles.</div>
               </div>
             </Reveal>
             <Reveal as="div" className="stat-card" delay={120}>
@@ -250,7 +252,7 @@ export default function StudentsHome() {
               <span className="mono">In market</span>
               <div>
                 <div className="big"><CountUp to={25} /><sup>y</sup></div>
-                <div className="desc">Since 1999, every cohort, every programme, inside banking and financial services. Relationships with the sector that pre-date most of the platforms it now uses.</div>
+                <div className="desc">Since 1999, every cohort, every programme, inside financial services. Relationships with banks, insurers and broker networks that pre-date most of the platforms the sector now uses.</div>
               </div>
             </Reveal>
           </div>

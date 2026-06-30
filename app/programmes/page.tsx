@@ -8,7 +8,7 @@ import { getStudentProgrammes, valueStreamLabel, type Programme } from "@/lib/pr
 export const metadata: Metadata = {
   title: "Programmes for Students",
   description:
-    "Three CHE-accredited pathways into banking and financial services - the Higher Certificate in Banking, the Business Banking specialisation, and the Advanced Certificate in Leadership. Built by the people the sector has counted on for 25 years.",
+    "Three CHE-accredited pathways into financial services - the Higher Certificate in Banking, the Business Banking specialisation, and the Advanced Certificate in Leadership. Built by the specialists the sector has counted on for 25 years.",
 };
 
 const students = getStudentProgrammes();
@@ -60,12 +60,13 @@ export default function StudentsProgrammes() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 880 }}>
             <span className="eyebrow"><span className="dot" /> Student Programmes</span>
-            <h1>Three pathways into banking and financial services.</h1>
+            <h1>Three pathways into financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
-              Three 12-month, CHE-accredited qualifications - all built by the specialist the sector has counted
-              on for 25 years. We only do banking and financial services, which is why employers recognise these
-              credentials ahead of generic ones. A banking foundation, a business banking specialisation, and a
-              leadership credential. Pick the one that fits where you want to land.
+              Three 12-month, CHE-accredited qualifications - all built by the specialists the sector has
+              counted on for 25 years. We only do financial services, with deep focus on banking and insurance,
+              which is why employers recognise these credentials ahead of generic ones. A banking foundation,
+              a business banking specialisation, and a leadership credential. Pick the one that fits where
+              you want to land.
             </p>
           </div>
         </div>

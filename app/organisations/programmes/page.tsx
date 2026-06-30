@@ -15,7 +15,7 @@ import {
 export const metadata: Metadata = {
   title: "Workforce Programmes",
   description:
-    "CPS workforce programmes for banking and financial services: occupational learnerships, CHE-accredited higher education qualifications, credit-bearing skills programmes and strategic skills programmes - built by the partner the sector has counted on for 25 years.",
+    "CPS workforce programmes for financial services - specialists in banking and insurance. Occupational learnerships, CHE-accredited higher education qualifications, credit-bearing skills programmes and strategic skills programmes, built by the partner the sector has counted on for 25 years.",
 };
 
 const heProgrammes: Programme[] = Object.values(PROGRAMMES).filter((p) => p.qualType === "HE");
@@ -121,7 +121,7 @@ export default function OrganisationsProgrammes() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 880 }}>
             <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-purple)" }} /> Workforce Programmes</span>
-            <h1>The workforce programmes banking and financial services rely on.</h1>
+            <h1>The workforce programmes financial services relies on.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
               Occupational qualifications delivered as workplace-integrated learnerships, CHE-accredited
               higher-education credentials, and focused skills programmes - all built around the
@@ -221,7 +221,7 @@ export default function OrganisationsProgrammes() {
               <h2>Focused 3-6 month programmes for sector-specific capability shifts.</h2>
               <p>
                 Strategic Skills Programmes (SSP) - non-credit, focused programmes for the capability
-                shifts banking and financial services groups need fast: sales performance, leadership,
+                shifts banks, insurers and financial services groups need fast: sales performance, leadership,
                 client experience, relationship management and digital change.
               </p>
             </div>

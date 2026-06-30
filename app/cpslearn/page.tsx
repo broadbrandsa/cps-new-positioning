@@ -22,7 +22,7 @@ import { CountUp } from "@/components/count-up";
 export const metadata: Metadata = {
   title: "CPSLearn for Students",
   description:
-    "CPSLearn is the platform behind how working professionals in banking and financial services actually finish their qualification. Built and refined over 25 years inside the sector.",
+    "CPSLearn is the platform behind how working professionals in financial services - especially banking and insurance - actually finish their qualification. Built and refined over 25 years inside the sector.",
 };
 
 export default function StudentsCPSLearn() {
@@ -42,11 +42,12 @@ export default function StudentsCPSLearn() {
           </div>
           <div style={{ marginTop: 24, maxWidth: 920 }}>
             <span className="eyebrow"><span className="dot" style={{ background: "var(--cps-blue)" }} /> CPSLearn</span>
-            <h1>The platform built to get banking professionals across the finish line.</h1>
+            <h1>The platform built to get financial services professionals across the finish line.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
               CPSLearn is where your programme happens - content, structure, assessments, feedback and
-              progress, in one place. Built and refined over 25 years for the way people in the
-              financial sector actually study: alongside a job, on their own time, with real stakes.
+              progress, in one place. Built and refined over 25 years for the way people in the sector
+              actually study (especially in banking and insurance): alongside a job, on their own time,
+              with real stakes.
             </p>
             <div style={{ marginTop: 32, display: "flex", flexWrap: "wrap", gap: 12 }}>
               <Link href="/programmes" className="btn btn-yellow btn-lg" style={{ display: "inline-flex", alignItems: "center", gap: 8 }}>
@@ -339,8 +340,8 @@ export default function StudentsCPSLearn() {
               <h2 style={{ marginTop: 16 }}>Not just another learning platform.</h2>
               <p style={{ marginTop: 24, fontSize: 17, color: "var(--muted)", lineHeight: 1.6 }}>
                 CPSLearn isn&apos;t a repackaged third-party LMS. It&apos;s our own platform, built and
-                refined over 25 years against one specific question: how do working people in banking
-                and financial services actually finish what they start?
+                refined over 25 years against one specific question: how do working people in financial
+                services - especially in banking and insurance - actually finish what they start?
               </p>
               <p style={{ marginTop: 16, fontSize: 17, color: "var(--ink)", lineHeight: 1.6, fontWeight: 500 }}>
                 The answer turned out to be specific - and the platform is shaped by it, not by guesses.

@@ -12,7 +12,7 @@ import {
 export const metadata: Metadata = {
   title: "About",
   description:
-    "Since 1999, Cornerstone Performance Solutions has been the learning partner banking and financial services count on. 25 years inside the sector, building the people who run it.",
+    "Since 1999, Cornerstone Performance Solutions has been the learning partner financial services counts on - specialists in banking and insurance. 25 years inside the sector, building the people who run it.",
 };
 
 export default function AboutPage() {
@@ -31,8 +31,8 @@ export default function AboutPage() {
             <Reveal as="div" delay={120} className="about-hero-text">
               <h1 className="about-display">25 years inside the sector.</h1>
               <p className="about-lede">
-                Since 1999, we&apos;ve built the people banking and financial services count on -
-                first one cohort, then thousands, then a generation.
+                Since 1999, we&apos;ve built the people financial services counts on - specialists in
+                banking and insurance. First one cohort, then thousands, then a generation.
               </p>
             </Reveal>
           </div>
@@ -51,8 +51,8 @@ export default function AboutPage() {
             <Reveal as="div" className="narrative-body" delay={140}>
               <p className="lead">
                 In 1999, Cornerstone Performance Solutions was founded with a specific job to do: design
-                learning that builds real people for real roles in <em>South Africa&apos;s banking and
-                financial services sector</em>.
+                learning that builds real people for real roles across <em>South Africa&apos;s financial
+                services sector</em> - with deep specialism in banking and insurance.
               </p>
               <p>
                 That focus has never moved. 25 years on, we&apos;re still doing the same job - building
@@ -228,8 +228,9 @@ export default function AboutPage() {
                   <span className="value-num">VALUE 01</span>
                   <h3>Sector first, always</h3>
                   <p>
-                    Every CPS programme is built around the work people actually do in banking and
-                    financial services. We design backwards from the role, not forwards from a textbook.
+                    Every CPS programme is built around the work people actually do in financial
+                    services - specifically in banking and insurance. We design backwards from the role,
+                    not forwards from a textbook.
                   </p>
                   <span className="value-flip-hint" aria-hidden>Hover to reveal</span>
                 </div>
