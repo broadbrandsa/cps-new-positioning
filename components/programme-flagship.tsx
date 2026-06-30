@@ -124,6 +124,14 @@ export function FlagshipProgrammeDetail({ p }: { p: Programme }) {
               className="flagship-hero-badge"
               sizes="(max-width: 880px) 0px, 64px"
             />
+            <Image
+              src="/badge-he.jpeg"
+              alt="Higher Education accreditation"
+              width={120}
+              height={120}
+              className="flagship-hero-badge"
+              sizes="(max-width: 880px) 0px, 64px"
+            />
           </div>
         </div>
       </section>

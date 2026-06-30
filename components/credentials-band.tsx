@@ -37,6 +37,14 @@ export function CredentialsBand() {
                 height={64}
               />
             </li>
+            <li>
+              <Image
+                src="/badge-he.jpeg"
+                alt="Higher Education accreditation"
+                width={180}
+                height={64}
+              />
+            </li>
           </ul>
         </div>
 
