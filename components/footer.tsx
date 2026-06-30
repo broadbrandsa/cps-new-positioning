@@ -19,6 +19,7 @@ export function Footer() {
               <span className="pill">B-BBEE Level 1</span>
               <span className="pill">CHE accredited</span>
               <span className="pill">QCTO accredited</span>
+              <span className="pill">DHET Registered</span>
             </div>
 
             <ul className="footer-social" aria-label="CPS on social media">
