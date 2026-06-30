@@ -42,9 +42,9 @@ export default function OrganisationsHome() {
             </h1>
             <p className="hero-sub hero-fade-in">
               For 25 years we&apos;ve done one thing: build people for financial services - specialists in
-              banking and insurance. Not a generalist training company with a finance module, a sector
-              specialist the industry turns to. CPS designs and delivers accredited workforce education for
-              banks, insurers, broker networks and financial services groups: programmes that build
+              banking and insurance. The banks, insurers and broker networks that hire from our programmes
+              are the same ones we&apos;ve worked alongside for two decades to design them. CPS delivers
+              accredited workforce education the sector already recognises by name - programmes that build
               capability, support compliance and produce measurable progress.
             </p>
 
@@ -103,9 +103,10 @@ export default function OrganisationsHome() {
               marginTop: 24,
             }}>
               We&apos;re not a generalist training company with a finance module. Financial services is the
-              only thing we do - with deep specialism in banking and insurance - which is why we know how
-              your sector develops people, what your regulators expect to see, and what it takes to move
-              staff from training delivered to capability earned.
+              only thing we do, with deep specialism in banking and insurance. That focus has built decades-long
+              working relationships with the banks, insurers and broker networks that hire from our programmes -
+              the same relationships that shape what we teach, so the qualifications we award are the ones your
+              sector already recognises.
             </p>
           </Reveal>
         </div>

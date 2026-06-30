@@ -86,9 +86,11 @@ export default function StudentsHome() {
               letterSpacing: "-0.005em",
               marginTop: 24,
             }}>
-              So we don&apos;t teach a bit of everything. Since 1999 we&apos;ve focused on one sector - financial
-              services, with deep specialism in banking and insurance. A CPS qualification competes with the
-              one thing a generic course can&apos;t offer: it was built with the people doing the hiring.
+              So we don&apos;t teach a bit of everything. Since 1999 we&apos;ve built our programmes hand-in-hand
+              with the banks, insurers and broker networks that hire from them - 25 years of working
+              relationships with the people doing the hiring. The names on a CPS qualification are the names
+              their HR teams already recognise, which is why our graduates get shortlisted where a generic
+              credential gets put aside.
             </p>
           </Reveal>
         </div>
@@ -214,7 +216,7 @@ export default function StudentsHome() {
             <Reveal as="div" className="phase" delay={240}>
               <div className="phase-num">WHY 03</div>
               <h3>Backed by sector relationships</h3>
-              <p>25 years of building cohorts for the banks, insurers and broker networks that do the hiring - the relationships behind your credential.</p>
+              <p>Two decades of working relationships with the banks, insurers and broker networks that do the hiring - the same people we built the curriculum with, who now recognise the credential by name.</p>
             </Reveal>
           </div>
         </div>

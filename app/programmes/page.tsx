@@ -63,10 +63,11 @@ export default function StudentsProgrammes() {
             <h1>Three pathways into financial services.</h1>
             <p style={{ marginTop: 24, fontSize: 18 }}>
               Three 12-month, CHE-accredited qualifications - all built by the specialists the sector has
-              counted on for 25 years. We only do financial services, with deep focus on banking and insurance,
-              which is why employers recognise these credentials ahead of generic ones. A banking foundation,
-              a business banking specialisation, and a leadership credential. Pick the one that fits where
-              you want to land.
+              counted on for 25 years. We design them with the banks, insurers and broker networks that
+              hire from them, which is why their HR teams already recognise these credentials by name -
+              and why a CPS graduate gets shortlisted where a generic one gets put aside. A banking
+              foundation, a business banking specialisation, and a leadership credential. Pick the one
+              that fits where you want to land.
             </p>
           </div>
         </div>
